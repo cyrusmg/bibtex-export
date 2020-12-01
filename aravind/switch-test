@@ -1,0 +1,1663 @@
+@PATENT{Hawkins1998-av,
+  title    = "{DNA} purification and isolation using magnetic particles",
+  author   = "Hawkins, Trevor",
+  abstract = "A method of separating polynucleotides, such as DNA, RNA and PNA,
+              from a solution containing polynucleotides by reversibly and
+              non-specifically binding the polynucleotides to a solid surface,
+              such as a magnetic microparticle, having a functional
+              group-coated surface is disclosed. The salt and polyalkylene
+              glycol concentration of the solution is adjusted to levels which
+              result in polynucleotide binding to the magnetic microparticles.
+              The magnetic microparticles with bound polynucleotides are
+              separated from the solution and the polynucleotides are eluted
+              from the magnetic microparticles.",
+  number   =  5705628,
+  month    =  jan,
+  year     =  1998
+}
+
+@MISC{Carolina_Mountain_Club1924-fa,
+  title  = "Certificate of Incorporation of the Carolina Mountain Club",
+  author = "{Carolina Mountain Club}",
+  series = "Carolina Mountain Club Archives",
+  month  =  sep,
+  year   =  1924
+}
+
+@MISC{Merritt1997-de,
+  title  = "{Raster3D} Photorealistic Molecular Graphics",
+  author = "Merritt, E A and Bacon, D J",
+  year   =  1997
+}
+
+@MANUAL{Bell_Telephone_Laboratories1983-gu,
+  title   = "Unix Programmer's Manual",
+  author  = "{Bell Telephone Laboratories}",
+  edition = "Seventh Edition",
+  month   =  jan,
+  year    =  1983
+}
+
+@ARTICLE{Gorbunov2015-xv,
+  title         = "Decaying light particles in the {SHiP} experiment ({II)}:
+                   Signal rate estimates for light neutralinos",
+  author        = "Gorbunov, D and Timiryasov, I",
+  abstract      = "Considering the supersymmetric models with light neutralino
+                   and R-parity violation, we perform estimates of the signal
+                   rate expected at the recently proposed fixed target SHiP
+                   experiment exploiting CERN SPS beam of 400 GeV protons. We
+                   extend the existing studies by introducing new production
+                   channels (in particular through the beauty mesons) and decay
+                   modes. We also constrain model parameter space from analysis
+                   of negative results of the CHARM experiment.",
+  month         =  aug,
+  year          =  2015,
+  archivePrefix = "arXiv",
+  primaryClass  = "hep-ph",
+  eprint        = "1508.01780"
+}
+
+@MISC{Gruber2015-ay,
+  title        = "Title for Miscellaneous",
+  author       = "Gruber, A R",
+  year         =  2015,
+  howpublished = "How published field"
+}
+
+@MISC{Nirvana1991-tf,
+  title     = "Smells Like Teen Spirit",
+  booktitle = "Nevermind",
+  author    = "{Nirvana}",
+  publisher = "DGC Records",
+  month     =  sep,
+  year      =  1991
+}
+
+@MISC{Cloyd2015-jd,
+  author       = "Cloyd, Allison M",
+  editor       = "Gover, Emily",
+  month        =  jun,
+  year         =  2015,
+  howpublished = "personal communication",
+  conference   = "IBC2015",
+  location     = "Basel, Swizterland"
+}
+
+@UNPUBLISHED{Gruber2015-li,
+  title  = "Title of the unpublsihed work",
+  author = "Gruber, A R",
+  year   =  2015
+}
+
+@INPROCEEDINGS{Barnat2010-df,
+  title           = "Employing Multiple {CUDA} Devices to Accelerate {LTL}
+                     Model Checking",
+  booktitle       = "{IEEE} 16th International Conference on Parallel and
+                     Distributed Systems ({ICPADS})",
+  author          = "Barnat, J and Bauch, P and Brim, L and Ceska, M",
+  abstract        = "Recently, the CUDA technology has been used to accelerate
+                     many computation demanding tasks. For example, in our
+                     previous work we have shown how CUDA technology can be
+                     employed to accelerate the process of Linear Temporal
+                     Logic (LTL) Model Checking. While the raw computing power
+                     of a CUDA enabled device is tremendous, the applicability
+                     of the technology is quite often limited to small or
+                     middle-sized instances of the problems being solved. This
+                     is because the memory that a single device is equipped
+                     with, is simply not large enough to cope with large or
+                     realistic instances of the problem, which is also the case
+                     of our CUDA-aware LTL Model Checking solution. In this
+                     paper we suggest how to overcome this limitations by
+                     employing multiple (two in our case) CUDA devices for
+                     acceleration of our fine-grained communication-intensive
+                     parallel algorithm for LTL Model Checking.",
+  publisher       = "IEEE",
+  pages           = "259--266",
+  month           =  dec,
+  year            =  2010,
+  keywords        = "formal verification;parallel algorithms;temporal
+                     logic;CUDA enabled device;CUDA technology;CUDA-aware LTL
+                     model checking solution;computation demanding
+                     task;computing power;fine-grained communication-intensive
+                     parallel algorithm;linear temporal logic model
+                     checking;multiple CUDA device;CUDA technology;employing
+                     multiple CUDA devices;parallel LTL model checking",
+  conference      = "ICPADS",
+  location        = "Shanghai"
+}
+
+@MISC{Runemark2015-mf,
+  title     = "Data from: Ecological explanations to island gigantism: dietary
+               niche divergence, predation and size in an endemic lizard",
+  author    = "Runemark, Anna and Sagonas, Kostas and Svensson, Erik I",
+  abstract  = "Although rapid evolution of body size on islands has long been
+               known ...",
+  publisher = "Dryad Digital Repository",
+  month     =  aug,
+  year      =  2015,
+  note      = "Title of the publication associated with this dataset:
+               Ecological explanations to island gigantism: dietary niche
+               divergence, predation and size in an endemic lizard"
+}
+
+@TECHREPORT{Behrends2006-th,
+  title       = "Programming according to the fences and gates model for
+                 developing assured, secure software systems",
+  author      = "Behrends, R and Dillon, L K and Fleming, S D and Stirewalt, R
+                 E K",
+  abstract    = "This white paper describes ...",
+  number      = "MSU-CSE-06-2",
+  institution = "Department of Computer Science, Michigan State University",
+  month       =  jan,
+  year        =  2006,
+  address     = "East Lansing, Michigan",
+  keywords    = "access control, security, contracts, Szumo"
+}
+
+@MISC{National_Geographic_Society1997-uc,
+  title     = "South Asia, with Afghanistan and Myanmar",
+  author    = "{National Geographic Society}",
+  publisher = "National Geographic Society",
+  month     =  may,
+  year      =  1997,
+  address   = "Washington"
+}
+
+@MISC{Sell1861-bd,
+  author = "Sell, John M",
+  editor = "Sell, William",
+  series = "John M. Sell Civil War Collection, Special Collections and Archives",
+  month  =  nov,
+  year   =  1861
+}
+
+@MISC{Obama2009-up,
+  title   = "Oprah Talks to Michelle Obama",
+  author  = "Obama, Michelle",
+  editor  = "Winfrey, Oprah",
+  journal = "O, The Oprah Magazine",
+  pages   = "116--125",
+  month   =  apr,
+  year    =  2009
+}
+
+@INBOOK{Kammen2012-gr,
+  title     = "Monuments",
+  booktitle = "Encyclopedia of Local History",
+  editor    = "Kammen, Carol and Wilson, Amy H",
+  publisher = "AltaMira Press",
+  pages     = "363--364",
+  edition   = "Second Edition",
+  month     =  nov,
+  year      =  2012,
+  address   = "Lanham, MD"
+}
+
+@MISC{Reitman1984-fr,
+  title     = "Ghost Busters",
+  author    = "Reitman, Ivan",
+  editor    = "Murray, Bill and Aykroyd, Dan and Weaver, Sigourney and Ramis,
+               Harold and Moranis, Rick",
+  publisher = "Columbia Pictures",
+  month     =  jun,
+  year      =  1984
+}
+
+@MISC{Baumel2010-ns,
+  title  = "Cholera treatment center in Haiti",
+  author = "Baumel, Aurelie",
+  year   =  2010
+}
+
+@MISC{Sargent1882-dy,
+  title       = "The Daughters of Edward Darley Boit",
+  author      = "Sargent, John Singer",
+  institution = "Museum of Fine Arts",
+  year        =  1882,
+  address     = "Boston"
+}
+
+@BOOK{Durbin1998-iq,
+  title     = "Biological sequence analysis : probabalistic models of proteins
+               and nucleic acids",
+  author    = "Durbin, Richard and Eddy, Sean and Krogh, Anders and Mitchison,
+               Graeme",
+  abstract  = "Probabilistic models are becoming increasingly important in
+               analysing the huge amount of data being produced by large-scale
+               DNA sequencing efforts such as the Human Genome Project. This
+               book gives an up-to-date account with a Bayesian slant.",
+  publisher = "Cambridge University Press",
+  edition   = "1st",
+  year      =  1998,
+  address   = "Cambridge, United Kingdom"
+}
+
+@MISC{Donizetti1888-ns,
+  title     = "Don Pasquale: An Opera in Three Acts with {Italian-English} Text",
+  author    = "Donizetti, Gaetano",
+  publisher = "Oliver Ditson Company",
+  year      =  1888,
+  address   = "Boston"
+}
+
+@MISC{Baltimore2014-ma,
+  title     = "{MicroRNA} Function in the Immune System",
+  author    = "Baltimore, David",
+  publisher = "National Institute of Allergy and Infectious Diseases",
+  number    = "5R01AI079243-07",
+  year      =  2014
+}
+
+@TECHREPORT{International_Electrotechnical_Commission1994-vf,
+  title   = "Information technology -- Open Document Architecture ({ODA}) and
+             Interchange Format: Document profile",
+  author  = "{International Electrotechnical Commission}",
+  number  = "8613-4:1994",
+  edition =  1,
+  month   =  dec,
+  year    =  1994
+}
+
+@PHDTHESIS{Rabani2013-kr,
+  title  = "Models of dynamic {RNA} regulation in mammalian cells",
+  author = "Rabani, Michal",
+  year   =  2013,
+  school = "Massachusetts Institute of Technology"
+}
+
+@MISC{Kamp2006-uy,
+  title     = "Deconstructing Dinner",
+  booktitle = "The Omnivore's Dilemma: A Natural History of Four Meals",
+  author    = "Kamp, David",
+  journal   = "New York Times",
+  series    = "Sunday Book Review",
+  month     =  apr,
+  year      =  2006
+}
+
+@MISC{noauthor_1980-bl,
+  title    = "Seaman v. Climate Control Corporation",
+  abstract = "The sole issue on this appeal is whether a second tier
+              subcontractor has a right to a mechanic's lien against the
+              owner's property when the owner owes money to the general
+              contractor, but the first tier subcontractor has been fully paid
+              by the general contractor. The plaintiff, ...",
+  journal  = "Conn.",
+  volume   =  181,
+  pages    = "592",
+  year     =  1980
+}
+
+@MISC{McCaskill_undated-if,
+  title  = "A bill to enhance whistleblower protection for contractor and
+            grantee employees",
+  author = "McCaskill, Claire",
+  number =  795
+}
+
+@MISC{noauthor_2005-wo,
+  title   = "Kyoto Protocol to the United Nations Framework Convention on
+             Climate Change",
+  journal = "UNTS",
+  volume  =  2303,
+  pages   = "148",
+  month   =  feb,
+  year    =  2005
+}
+
+@MISC{noauthor_2013-iz,
+  title        = "Nucleic \textit{Acids} Research",
+  publisher    = "Oxford University Press",
+  year         =  2013,
+  howpublished = "monthly"
+}
+
+@INCOLLECTION{Califano2016-gl,
+  title     = "On the Existence of the Normal Form for Nonlinear Delay Systems",
+  booktitle = "Recent Results on Nonlinear Delay Control Systems",
+  author    = "Califano, Claudia and Moog, Claude H",
+  editor    = "Malisoff, Michael and Pepe, Pierdomenico and Mazenc, Frederic
+               and Karafyllis, Iasson",
+  abstract  = "The normal form is discussed for nonlinear systems affected by
+               constant commensurate delays. Two different forms are argued. In
+               particular, necessary and sufficient conditions are given under
+               which a nonlinear time-delay system can be decomposed into a
+               (weakly) observable subsystem and a non observable subsystem.
+               Whenever such a decomposition exists, additional conditions are
+               required to ensure the feedback linearization of the weakly
+               observable subsystem. Finally, a full characterization is
+               derived for the nonlinear time delay system to have an
+               unobservable subsystem not directly affected by the input and a
+               weakly observable subsystem which is linearizable by feedback.
+               The performed analysis is carried out within a new geometric
+               framework recently introduced in the literature.",
+  publisher = "Springer International Publishing",
+  volume    =  4,
+  pages     = "113--142",
+  series    = "Advances in Delays and Dynamics",
+  year      =  2016,
+  address   = "Cham, Switzerland"
+}
+
+@MISC{Washietl2014-pr,
+  title        = "Why web startups for researchers should charge their users -
+                  Paperpile Blog",
+  booktitle    = "Paperpile Blog",
+  author       = "Washietl, Stefan",
+  abstract     = "Last week Impactstory announced their new paid subscription
+                  model. Changing a service from free to paid is a big step and
+                  there was some discussion on Twitter about it. We decided
+                  from day one to run Paperpile as a paid subscription service
+                  and only had good experiences with this model so far. We are
+                  lucky toRead more...",
+  month        =  aug,
+  year         =  2014,
+  howpublished = "\url{https://paperpile.com/blog/why-web-startups-for-researchers-should-charge-their-users/}",
+  note         = "Accessed: 2015-8-10"
+}
+
+@ARTICLE{Benner2015-oy,
+  title    = "Investors Find Ways to Indirectly Profit From Valuable
+              {Start-Ups}",
+  author   = "Benner, Katie",
+  abstract = "Companies without deep pockets and connections are coming up with
+              roundabout ways to get a piece of the action.",
+  journal  = "The New York Times",
+  month    =  aug,
+  year     =  2015
+}
+
+@MISC{Washietl2014-ck,
+  title        = "Paperpile: a new take on reference management",
+  author       = "Washietl, Stefan",
+  month        =  sep,
+  year         =  2014,
+  howpublished = "Second national gathering of Swiss health librarians",
+  location     = "Bern, Switerland"
+}
+
+@ARTICLE{Lagouge2015-cu,
+  title    = "{SLIRP} Regulates the Rate of Mitochondrial Protein Synthesis and
+              Protects {LRPPRC} from Degradation",
+  author   = "Lagouge, Marie and Mourier, Arnaud and Lee, Hyun Ju and
+              Sp{\aa}hr, Henrik and Wai, Timothy and Kukat, Christian and Silva
+              Ramos, Eduardo and Motori, Elisa and Busch, Jakob D and Siira,
+              Stefan and {German Mouse Clinic Consortium} and Kremmer,
+              Elisabeth and Filipovska, Aleksandra and Larsson, Nils-G{\"o}ran",
+  abstract = "We have studied the in vivo role of SLIRP in regulation of
+              mitochondrial DNA (mtDNA) gene expression and show here that it
+              stabilizes its interacting partner protein LRPPRC by protecting
+              it from degradation. Although SLIRP is completely dependent on
+              LRPPRC for its stability, reduced levels of LRPPRC persist in the
+              absence of SLIRP in vivo. Surprisingly, Slirp knockout mice are
+              apparently healthy and only display a minor weight loss, despite
+              a 50-70\% reduction in the steady-state levels of mtDNA-encoded
+              mRNAs. In contrast to LRPPRC, SLIRP is dispensable for
+              polyadenylation of mtDNA-encoded mRNAs. Instead, deep RNA
+              sequencing (RNAseq) of mitochondrial ribosomal fractions and
+              additional molecular analyses show that SLIRP is required for
+              proper association of mRNAs to the mitochondrial ribosome and
+              efficient translation. Our findings thus establish distinct
+              functions for SLIRP and LRPPRC within the LRPPRC-SLIRP complex,
+              with a novel role for SLIRP in mitochondrial translation. Very
+              surprisingly, our results also demonstrate that mammalian
+              mitochondria have a great excess of transcripts under basal
+              physiological conditions in vivo.",
+  journal  = "PLoS Genet.",
+  volume   =  11,
+  number   =  8,
+  pages    = "e1005423",
+  month    =  aug,
+  year     =  2015
+}
+
+@MISC{Linda2015-jp,
+  title     = "A Look Ahead At The Landscape Of {TV} To Come",
+  booktitle = "All Things Considered",
+  author    = "Linda, Holmes",
+  abstract  = "Twice each year, all the major TV production houses bring
+               critics to Beverly Hills, Calif. to introduce their latest
+               shows. This summer, the sheer volume of new, scripted material
+               is overwhelming.",
+  publisher = "NPR",
+  month     =  aug,
+  year      =  2015,
+  address   = "Washington, DC"
+}
+
+@ARTICLE{Kops2005-lp,
+  title   = "{ZW10} links mitotic checkpoint signaling to the structural
+             kinetochore",
+  author  = "Kops, Geert J P L and Kim, Yumi and Weaver, Beth A A and Mao,
+             Yinghui and McLeod, Ian and Yates, 3rd, John R and Tagaya, Mitsuo
+             and Cleveland, Don W",
+  journal = "J Cell Biol",
+  volume  =  169,
+  number  =  1,
+  pages   = "49--60",
+  month   =  apr,
+  year    =  2005
+}
+
+@ARTICLE{Grimm2006-bk,
+  title   = "Dominant-negative Pes1 mutants inhibit ribosomal {RNA} processing
+             and cell proliferation via incorporation into the {PeBoW-complex}",
+  author  = "Grimm, Thomas and H{\"o}lzel, Michael and Rohrmoser, Michaela and
+             Harasim, Thomas and Malamoussi, Anastassia and Gruber-Eber, Anita
+             and Kremmer, Elisabeth and Eick, Dirk",
+  journal = "Nucleic Acids Res",
+  volume  =  34,
+  number  =  10,
+  pages   = "3030--3043",
+  month   =  may,
+  year    =  2006
+}
+
+@ARTICLE{Farrow2006-fh,
+  title   = "Cytoplasmic expression systems triggered by {mRNA} yield increased
+             gene expression in post-mitotic neurons",
+  author  = "Farrow, Paul J and Barrett, Lee B and Stevenson, Mark and Fisher,
+             Kerry D and Finn, Jonathan and Spice, Rachel and Allan, Michael A
+             and Berry, Martin and Logan, Ann and Seymour, Leonard W and Read,
+             Martin L",
+  journal = "Nucleic Acids Res",
+  volume  =  34,
+  number  =  11,
+  pages   = "e80",
+  month   =  jul,
+  year    =  2006
+}
+
+@ARTICLE{Till2006-vs,
+  title   = "High-throughput discovery of rare human nucleotide polymorphisms
+             by Ecotilling",
+  author  = "Till, Bradley J and Zerr, Troy and Bowers, Elisabeth and Greene,
+             Elizabeth A and Comai, Luca and Henikoff, Steven",
+  journal = "Nucleic Acids Res",
+  volume  =  34,
+  number  =  13,
+  pages   = "e99",
+  month   =  aug,
+  year    =  2006
+}
+
+@ARTICLE{Minagawa2006-ak,
+  title   = "Identification by Mn2+ rescue of two residues essential for the
+             proton transfer of {tRNase} {Z} catalysis",
+  author  = "Minagawa, Asako and Takaku, Hiroaki and Ishii, Ryohei and Takagi,
+             Masamichi and Yokoyama, Shigeyuki and Nashimoto, Masayuki",
+  journal = "Nucleic Acids Res",
+  volume  =  34,
+  number  =  13,
+  pages   = "3811--3818",
+  month   =  aug,
+  year    =  2006
+}
+
+@ARTICLE{Venables2006-kb,
+  title   = "{EASI--enrichment} of alternatively spliced isoforms",
+  author  = "Venables, Julian P and Burn, John",
+  journal = "Nucleic Acids Res",
+  volume  =  34,
+  number  =  15,
+  pages   = "e103",
+  month   =  sep,
+  year    =  2006
+}
+
+@ARTICLE{Bailly2006-pw,
+  title   = "A single {tRNA} base pair mediates bacterial {tRNA-dependent}
+             biosynthesis of asparagine",
+  author  = "Bailly, Marc and Giannouli, Stamatina and Blaise, Mickael and
+             Stathopoulos, Constantinos and Kern, Daniel and Becker, Hubert
+             Dominique",
+  journal = "Nucleic Acids Res",
+  volume  =  34,
+  number  =  21,
+  pages   = "6083--6094",
+  month   =  oct,
+  year    =  2006
+}
+
+@ARTICLE{Mangs2006-pi,
+  title   = "{XE7}: a novel splicing factor that interacts with {ASF/SF2} and
+             {ZNF265}",
+  author  = "Mangs, A Helena and Speirs, Helen J L and Goy, Christine and
+             Adams, David J and Markus, M Andrea and Morris, Brian J",
+  journal = "Nucleic Acids Res",
+  volume  =  34,
+  number  =  17,
+  pages   = "4976--4986",
+  month   =  sep,
+  year    =  2006
+}
+
+@ARTICLE{Diamond2006-wn,
+  title   = "Functional interactions between Dlx2 and lymphoid enhancer factor
+             regulate Msx2",
+  author  = "Diamond, Evan and Amen, Melanie and Hu, Qiaoyan and Espinoza,
+             Herbert M and Amendt, Brad A",
+  journal = "Nucleic Acids Res",
+  volume  =  34,
+  number  =  20,
+  pages   = "5951--5965",
+  month   =  oct,
+  year    =  2006
+}
+
+@ARTICLE{Costa2006-rh,
+  title   = "Structural basis of the Methanothermobacter thermautotrophicus
+             {MCM} helicase activity",
+  author  = "Costa, Alessandro and Pape, Tillmann and van Heel, Marin and
+             Brick, Peter and Patwardhan, Ardan and Onesti, Silvia",
+  journal = "Nucleic Acids Res",
+  volume  =  34,
+  number  =  20,
+  pages   = "5829--5838",
+  month   =  oct,
+  year    =  2006
+}
+
+@ARTICLE{Pouget2006-dv,
+  title   = "{IS911} transpososome assembly as analysed by tethered particle
+             motion",
+  author  = "Pouget, N and Turlan, C and Destainville, N and Salom{\'e}, L and
+             Chandler, M",
+  journal = "Nucleic Acids Res",
+  volume  =  34,
+  number  =  16,
+  pages   = "4313--4323",
+  month   =  aug,
+  year    =  2006
+}
+
+@ARTICLE{Carbonell2006-ke,
+  title   = "Effects of the trinucleotide preceding the self-cleavage site on
+             eggplant latent viroid hammerheads: differences in co- and
+             post-transcriptional self-cleavage may explain the lack of
+             trinucleotide {AUC} in most natural hammerheads",
+  author  = "Carbonell, Alberto and De la Pe{\~n}a, Marcos and Flores, Ricardo
+             and Gago, Selma",
+  journal = "Nucleic Acids Res",
+  volume  =  34,
+  number  =  19,
+  pages   = "5613--5622",
+  month   =  oct,
+  year    =  2006
+}
+
+@ARTICLE{Sugawara2007-gb,
+  title   = "{DDBJ} working on evaluation and classification of bacterial genes
+             in {INSDC}",
+  author  = "Sugawara, Hideaki and Abe, Takashi and Gojobori, Takashi and
+             Tateno, Yoshio",
+  journal = "Nucleic Acids Res",
+  volume  =  35,
+  number  = "Database issue",
+  pages   = "D13--5",
+  year    =  2007
+}
+
+@ARTICLE{Bao2007-ng,
+  title   = "{PolymiRTS} Database: linking polymorphisms in {microRNA} target
+             sites with complex traits",
+  author  = "Bao, Lei and Zhou, Mi and Wu, Ligang and Lu, Lu and Goldowitz, Dan
+             and Williams, Robert W and Cui, Yan",
+  journal = "Nucleic Acids Res",
+  volume  =  35,
+  number  = "Database issue",
+  pages   = "D51--4",
+  year    =  2007
+}
+
+@ARTICLE{Loy2007-ie,
+  title   = "probeBase--an online resource for {rRNA-targeted} oligonucleotide
+             probes: new features 2007",
+  author  = "Loy, Alexander and Maixner, Frank and Wagner, Michael and Horn,
+             Matthias",
+  journal = "Nucleic Acids Res",
+  volume  =  35,
+  number  = "Database issue",
+  pages   = "D800--4",
+  year    =  2007
+}
+
+@ARTICLE{Joli2006-kc,
+  title   = "Solution structure of a purine rich hexaloop hairpin belonging to
+             {PGY/MDR1} {mRNA} and targeted by antisense oligonucleotides",
+  author  = "Joli, Flore and Bouchemal, Nadia and Laigle, Alain and Hartmann,
+             Brigitte and Hantz, Edith",
+  journal = "Nucleic Acids Res",
+  volume  =  34,
+  number  =  20,
+  pages   = "5740--5751",
+  month   =  oct,
+  year    =  2006
+}
+
+@ARTICLE{Kinoshita2007-kt,
+  title   = "Multiple primer extension by {DNA} polymerase on a novel plastic
+             {DNA} array coated with a biocompatible polymer",
+  author  = "Kinoshita, Kenji and Fujimoto, Kentaro and Yakabe, Toru and Saito,
+             Shin and Hamaguchi, Yuzo and Kikuchi, Takayuki and Nonaka, Ken and
+             Murata, Shigenori and Masuda, Daisuke and Takada, Wataru and
+             Funaoka, Sohei and Arai, Susumu and Nakanishi, Hisao and Yokoyama,
+             Kanehisa and Fujiwara, Kazuhiko and Matsubara, Kenichi",
+  journal = "Nucleic Acids Res",
+  volume  =  35,
+  number  =  1,
+  pages   = "e3",
+  year    =  2007
+}
+
+@ARTICLE{Li2007-yi,
+  title   = "{GABI-Kat} {SimpleSearch}: an Arabidopsis thaliana {T-DNA} mutant
+             database with detailed information for confirmed insertions",
+  author  = "Li, Yong and Rosso, Mario G and Viehoever, Prisca and Weisshaar,
+             Bernd",
+  journal = "Nucleic Acids Res",
+  volume  =  35,
+  number  = "Database issue",
+  pages   = "D874--8",
+  year    =  2007
+}
+
+@ARTICLE{Wang2005-vi,
+  title   = "Dendritic {BC1} {RNA} in translational control mechanisms",
+  author  = "Wang, Huidong and Iacoangeli, Anna and Lin, Daisy and Williams,
+             Keith and Denman, Robert B and Hellen, Christopher U T and Tiedge,
+             Henri",
+  journal = "J Cell Biol",
+  volume  =  171,
+  number  =  5,
+  pages   = "811--821",
+  month   =  dec,
+  year    =  2005
+}
+
+@ARTICLE{Hamard2007-lt,
+  title   = "Sumoylation delays the {ATF7} transcription factor subcellular
+             localization and inhibits its transcriptional activity",
+  author  = "Hamard, Pierre-Jacques and Boyer-Guittaut, Micha{\"e}l and
+             Camuzeaux, Barbara and Dujardin, Denis and Hauss, Charlotte and
+             Oelgeschl{\"a}ger, Thomas and Vigneron, Marc and Kedinger, Claude
+             and Chatton, Bruno",
+  journal = "Nucleic Acids Res",
+  volume  =  35,
+  number  =  4,
+  pages   = "1134--1144",
+  month   =  jan,
+  year    =  2007
+}
+
+@ARTICLE{Rogers2002-is,
+  title   = "The aurora kinase {AIR-2} functions in the release of chromosome
+             cohesion in Caenorhabditis elegans meiosis",
+  author  = "Rogers, Eric and Bishop, John D and Waddle, James A and
+             Schumacher, Jill M and Lin, Rueyling",
+  journal = "J Cell Biol",
+  volume  =  157,
+  number  =  2,
+  pages   = "219--229",
+  month   =  apr,
+  year    =  2002
+}
+
+@ARTICLE{Cloutier1999-rv,
+  title   = "Cooperative inhibition of T-cell antigen receptor signaling by a
+             complex between a kinase and a phosphatase",
+  author  = "Cloutier, J F and Veillette, A",
+  journal = "J Exp Med",
+  volume  =  189,
+  number  =  1,
+  pages   = "111--121",
+  month   =  jan,
+  year    =  1999
+}
+
+@ARTICLE{Appay2000-xn,
+  title   = "{HIV-specific} {CD8(+}) {T} cells produce antiviral cytokines but
+             are impaired in cytolytic function",
+  author  = "Appay, V and Nixon, D F and Donahoe, S M and Gillespie, G M and
+             Dong, T and King, A and Ogg, G S and Spiegel, H M and Conlon, C
+             and Spina, C A and Havlir, D V and Richman, D D and Waters, A and
+             Easterbrook, P and McMichael, A J and Rowland-Jones, S L",
+  journal = "J Exp Med",
+  volume  =  192,
+  number  =  1,
+  pages   = "63--75",
+  month   =  jul,
+  year    =  2000
+}
+
+@ARTICLE{Calvert1998-aj,
+  title   = "Onset of feedback reactions underlying vertebrate rod
+             photoreceptor light adaptation",
+  author  = "Calvert, P D and Ho, T W and LeFebvre, Y M and Arshavsky, V Y",
+  journal = "J Gen Physiol",
+  volume  =  111,
+  number  =  1,
+  pages   = "39--51",
+  year    =  1998
+}
+
+@ARTICLE{Rybtsova2007-ik,
+  title   = "Transcription-coupled deposition of histone modifications during
+             {MHC} class {II} gene activation",
+  author  = "Rybtsova, Natalia and Leimgruber, Elisa and Seguin-Est{\'e}vez,
+             Queralt and Dunand-Sauthier, Isabelle and Krawczyk, Michal and
+             Reith, Walter",
+  journal = "Nucleic Acids Res",
+  volume  =  35,
+  number  =  10,
+  pages   = "3431--3441",
+  month   =  may,
+  year    =  2007
+}
+
+@ARTICLE{Knickerbocker2007-vv,
+  title   = "An integrated approach to prognosis using protein microarrays and
+             nonparametric methods",
+  author  = "Knickerbocker, Tanya and Chen, Jiunn R and Thadhani, Ravi and
+             MacBeath, Gavin",
+  journal = "Mol Syst Biol",
+  volume  =  3,
+  pages   = "123",
+  month   =  jun,
+  year    =  2007
+}
+
+@ARTICLE{Gilfillan2007-tj,
+  title   = "Cumulative contributions of weak {DNA} determinants to targeting
+             the Drosophila dosage compensation complex",
+  author  = "Gilfillan, Gregor D and K{\"o}nig, Cornelia and Dahlsveen, Ina K
+             and Prakoura, Nicky and Straub, Tobias and Lamm, Rosemarie and
+             Fauth, Torsten and Becker, Peter B",
+  journal = "Nucleic Acids Res",
+  volume  =  35,
+  number  =  11,
+  pages   = "3561--3572",
+  month   =  may,
+  year    =  2007
+}
+
+@ARTICLE{Labarga2007-gz,
+  title   = "Web services at the European bioinformatics institute",
+  author  = "Labarga, Alberto and Valentin, Franck and Anderson, Mikael and
+             Lopez, Rodrigo",
+  journal = "Nucleic Acids Res",
+  volume  =  35,
+  number  = "Web Server issue",
+  pages   = "W6--11",
+  year    =  2007
+}
+
+@ARTICLE{Kinoshita2007-cu,
+  title   = "eF-seek: prediction of the functional sites of proteins by
+             searching for similar electrostatic potential and molecular
+             surface shape",
+  author  = "Kinoshita, Kengo and Murakami, Yoichi and Nakamura, Haruki",
+  journal = "Nucleic Acids Res",
+  volume  =  35,
+  number  = "Web Server issue",
+  pages   = "W398--402",
+  year    =  2007
+}
+
+@ARTICLE{Suhrer2007-mo,
+  title   = "{QSCOP-BLAST--fast} retrieval of quantified structural information
+             for protein sequences of unknown structure",
+  author  = "Suhrer, Stefan J and Gruber, Markus and Sippl, Manfred J",
+  journal = "Nucleic Acids Res",
+  volume  =  35,
+  number  = "Web Server issue",
+  pages   = "W411--5",
+  year    =  2007
+}
+
+@ARTICLE{Su2007-fr,
+  title   = "{iPDA}: integrated protein disorder analyzer",
+  author  = "Su, Chung-Tsai and Chen, Chien-Yu and Hsu, Chen-Ming",
+  journal = "Nucleic Acids Res",
+  volume  =  35,
+  number  = "Web Server issue",
+  pages   = "W465--72",
+  year    =  2007
+}
+
+@ARTICLE{Hegarat2007-rq,
+  title   = "Analytical biochemistry of {DNA--protein} assemblies from crude
+             cell extracts",
+  author  = "H{\'e}garat, Nadia and Cardoso, Gildas Mouta and Rusconi, Filippo
+             and Francois, Jean-Christophe and Praseuth, Dani{\`e}le",
+  journal = "Nucleic Acids Res",
+  volume  =  35,
+  number  =  13,
+  pages   = "e92",
+  month   =  jul,
+  year    =  2007
+}
+
+@ARTICLE{Lad2007-xv,
+  title   = "Structure of three tandem filamin domains reveals auto-inhibition
+             of ligand binding",
+  author  = "Lad, Yatish and Kiema, Tiila and Jiang, Pengju and
+             Pentik{\"a}inen, Olli T and Coles, Charlotte H and Campbell, Iain
+             D and Calderwood, David A and Yl{\"a}nne, Jari",
+  journal = "EMBO J",
+  volume  =  26,
+  number  =  17,
+  pages   = "3993--4004",
+  month   =  sep,
+  year    =  2007
+}
+
+@ARTICLE{Kuhn-Holsken2007-kk,
+  title   = "Improved identification of enriched peptide {RNA} cross-links from
+             ribonucleoprotein particles ({RNPs}) by mass spectrometry",
+  author  = "K{\"u}hn-H{\"o}lsken, Eva and Dybkov, Olexandr and Sander,
+             Bj{\"o}rn and L{\"u}hrmann, Reinhard and Urlaub, Henning",
+  journal = "Nucleic Acids Res",
+  volume  =  35,
+  number  =  15,
+  pages   = "e95",
+  month   =  jul,
+  year    =  2007
+}
+
+@ARTICLE{North2006-uw,
+  title   = "Seeing is believing? A beginners' guide to practical pitfalls in
+             image acquisition",
+  author  = "North, Alison J",
+  journal = "J Cell Biol",
+  volume  =  172,
+  number  =  1,
+  pages   = "9--18",
+  month   =  jan,
+  year    =  2006
+}
+
+@ARTICLE{Yuan2006-yu,
+  title   = "{CIB1} is an endogenous inhibitor of agonist-induced integrin
+             {alphaIIbbeta3} activation",
+  author  = "Yuan, Weiping and Leisner, Tina M and McFadden, Andrew W and Wang,
+             Zhengyan and Larson, Mark K and Clark, Shantres and
+             Boudignon-Proudhon, Christel and Lam, Stephen C-T and Parise,
+             Leslie V",
+  journal = "J Cell Biol",
+  volume  =  172,
+  number  =  2,
+  pages   = "169--175",
+  month   =  jan,
+  year    =  2006
+}
+
+@ARTICLE{Blasius2007-rd,
+  title   = "Two binding partners cooperate to activate the molecular motor
+             Kinesin-1",
+  author  = "Blasius, T Lynne and Cai, Dawen and Jih, Gloria T and Toret,
+             Christopher P and Verhey, Kristen J",
+  journal = "J Cell Biol",
+  volume  =  176,
+  number  =  1,
+  pages   = "11--17",
+  month   =  jan,
+  year    =  2007
+}
+
+@ARTICLE{Cai2007-it,
+  title   = "Kinesin-1 structural organization and conformational changes
+             revealed by {FRET} stoichiometry in live cells",
+  author  = "Cai, Dawen and Hoppe, Adam D and Swanson, Joel A and Verhey,
+             Kristen J",
+  journal = "J Cell Biol",
+  volume  =  176,
+  number  =  1,
+  pages   = "51--63",
+  month   =  jan,
+  year    =  2007
+}
+
+@ARTICLE{Acharya2006-yw,
+  title   = "Drosophila melanogaster Scramblases modulate synaptic transmission",
+  author  = "Acharya, Usha and Edwards, Michael Beth and Jorquera, Ramon A and
+             Silva, Hugo and Nagashima, Kunio and Labarca, Pedro and Acharya,
+             Jairaj K",
+  journal = "J Cell Biol",
+  volume  =  173,
+  number  =  1,
+  pages   = "69--82",
+  month   =  apr,
+  year    =  2006
+}
+
+@ARTICLE{Krzewski2006-xh,
+  title   = "Formation of a {WIP-}, {WASp-}, actin-, and myosin
+             {IIA-containing} multiprotein complex in activated {NK} cells and
+             its alteration by {KIR} inhibitory signaling",
+  author  = "Krzewski, Konrad and Chen, Xi and Orange, Jordan S and Strominger,
+             Jack L",
+  journal = "J Cell Biol",
+  volume  =  173,
+  number  =  1,
+  pages   = "121--132",
+  month   =  apr,
+  year    =  2006
+}
+
+@ARTICLE{Wood2006-ok,
+  title   = "Distinct mechanisms regulate hemocyte chemotaxis during
+             development and wound healing in Drosophila melanogaster",
+  author  = "Wood, Will and Faria, Celia and Jacinto, Antonio",
+  journal = "J Cell Biol",
+  volume  =  173,
+  number  =  3,
+  pages   = "405--416",
+  month   =  may,
+  year    =  2006
+}
+
+@ARTICLE{Weinert2006-vn,
+  title   = "{M} line-deficient titin causes cardiac lethality through impaired
+             maturation of the sarcomere",
+  author  = "Weinert, Stefanie and Bergmann, Nora and Luo, Xiuju and Erdmann,
+             Bettina and Gotthardt, Michael",
+  journal = "J Cell Biol",
+  volume  =  173,
+  number  =  4,
+  pages   = "559--570",
+  month   =  may,
+  year    =  2006
+}
+
+@ARTICLE{Herrmann2007-lz,
+  title   = "Catch me if you can! Oxidative protein trapping in the
+             intermembrane space of mitochondria",
+  author  = "Herrmann, Johannes M and K{\"o}hl, Roman",
+  journal = "J Cell Biol",
+  volume  =  176,
+  number  =  5,
+  pages   = "559--563",
+  month   =  feb,
+  year    =  2007
+}
+
+@ARTICLE{Brown2007-jq,
+  title   = "Xenopus tropicalis egg extracts provide insight into scaling of
+             the mitotic spindle",
+  author  = "Brown, Katherine S and Blower, Michael D and Maresca, Thomas J and
+             Grammer, Timothy C and Harland, Richard M and Heald, Rebecca",
+  journal = "J Cell Biol",
+  volume  =  176,
+  number  =  6,
+  pages   = "765--770",
+  month   =  mar,
+  year    =  2007
+}
+
+@ARTICLE{Cumming2007-wa,
+  title   = "Error bars in experimental biology",
+  author  = "Cumming, Geoff and Fidler, Fiona and Vaux, David L",
+  journal = "J Cell Biol",
+  volume  =  177,
+  number  =  1,
+  pages   = "7--11",
+  month   =  apr,
+  year    =  2007
+}
+
+@ARTICLE{Ahmad-Annuar2006-mu,
+  title   = "Signaling across the synapse: a role for Wnt and Dishevelled in
+             presynaptic assembly and neurotransmitter release",
+  author  = "Ahmad-Annuar, Azlina and Ciani, Lorenza and Simeonidis, Iordanis
+             and Herreros, Judit and Fredj, Naila Ben and Rosso, Silvana B and
+             Hall, Anita and Brickley, Stephen and Salinas, Patricia C",
+  journal = "J Cell Biol",
+  volume  =  174,
+  number  =  1,
+  pages   = "127--139",
+  month   =  jul,
+  year    =  2006
+}
+
+@ARTICLE{Deinhardt2006-xq,
+  title   = "Tetanus toxin is internalized by a sequential clathrin-dependent
+             mechanism initiated within lipid microdomains and independent of
+             epsin1",
+  author  = "Deinhardt, Katrin and Berninghausen, Otto and Willison, Hugh J and
+             Hopkins, Colin R and Schiavo, Giampietro",
+  journal = "J Cell Biol",
+  volume  =  174,
+  number  =  3,
+  pages   = "459--471",
+  month   =  jul,
+  year    =  2006
+}
+
+@ARTICLE{Wang2006-sc,
+  title   = "From imaging to understanding: Frontiers in Live Cell Imaging,
+             Bethesda, {MD}, April 19-21, 2006",
+  author  = "Wang, Yu-Li and Hahn, Klaus M and Murphy, Robert F and Horwitz,
+             Alan F",
+  journal = "J Cell Biol",
+  volume  =  174,
+  number  =  4,
+  pages   = "481--484",
+  month   =  aug,
+  year    =  2006
+}
+
+@ARTICLE{Besse2007-zy,
+  title   = "The Ig cell adhesion molecule Basigin controls
+             compartmentalization and vesicle release at Drosophila
+             melanogaster synapses",
+  author  = "Besse, Florence and Mertel, Sara and Kittel, Robert J and
+             Wichmann, Carolin and Rasse, Tobias M and Sigrist, Stephan J and
+             Ephrussi, Anne",
+  journal = "J Cell Biol",
+  volume  =  177,
+  number  =  5,
+  pages   = "843--855",
+  month   =  jun,
+  year    =  2007
+}
+
+@ARTICLE{Weisleder2006-nj,
+  title   = "Muscle aging is associated with compromised Ca2+ spark signaling
+             and segregated intracellular Ca2+ release",
+  author  = "Weisleder, Noah and Brotto, Marco and Komazaki, Shinji and Pan,
+             Zui and Zhao, Xiaoli and Nosek, Thomas and Parness, Jerome and
+             Takeshima, Hiroshi and Ma, Jianjie",
+  journal = "J Cell Biol",
+  volume  =  174,
+  number  =  5,
+  pages   = "639--645",
+  month   =  aug,
+  year    =  2006
+}
+
+@ARTICLE{Kim2006-hb,
+  title   = "Cell cycle regulators control centrosome elimination during
+             oogenesis in Caenorhabditis elegans",
+  author  = "Kim, Dae Young and Roy, Richard",
+  journal = "J Cell Biol",
+  volume  =  174,
+  number  =  6,
+  pages   = "751--757",
+  month   =  sep,
+  year    =  2006
+}
+
+@ARTICLE{Rossner2007-lg,
+  title   = "How the rich get richer",
+  author  = "Rossner, Mike and Mellman, Ira",
+  journal = "J Cell Biol",
+  volume  =  177,
+  number  =  6,
+  pages   = "951",
+  month   =  jun,
+  year    =  2007
+}
+
+@ARTICLE{Wang2006-ok,
+  title   = "Regulation of retrotranslocation by p97-associated
+             deubiquitinating enzyme ataxin-3",
+  author  = "Wang, Qiuyan and Li, Lianyun and Ye, Yihong",
+  journal = "J Cell Biol",
+  volume  =  174,
+  number  =  7,
+  pages   = "963--971",
+  month   =  sep,
+  year    =  2006
+}
+
+@ARTICLE{Fugmann2007-zw,
+  title   = "Regulation of secretory transport by protein kinase D-mediated
+             phosphorylation of the ceramide transfer protein",
+  author  = "Fugmann, Tim and Hausser, Angelika and Sch{\"o}ffler, Patrik and
+             Schmid, Simone and Pfizenmaier, Klaus and Olayioye, Monilola A",
+  journal = "J Cell Biol",
+  volume  =  178,
+  number  =  1,
+  pages   = "15--22",
+  month   =  jul,
+  year    =  2007
+}
+
+@ARTICLE{Song2007-hs,
+  title   = "{OPA1} processing controls mitochondrial fusion and is regulated
+             by {mRNA} splicing, membrane potential, and {Yme1L}",
+  author  = "Song, Zhiyin and Chen, Hsiuchen and Fiket, Maja and Alexander,
+             Christiane and Chan, David C",
+  journal = "J Cell Biol",
+  volume  =  178,
+  number  =  5,
+  pages   = "749--755",
+  month   =  aug,
+  year    =  2007
+}
+
+@ARTICLE{Wong2006-ke,
+  title   = "Neural crest-derived cells with stem cell features can be traced
+             back to multiple lineages in the adult skin",
+  author  = "Wong, Christine E and Paratore, Christian and Dours-Zimmermann,
+             Mar{\'\i}a T and Rochat, Ariane and Pietri, Thomas and Suter, Ueli
+             and Zimmermann, Dieter R and Dufour, Sylvie and Thiery, Jean Paul
+             and Meijer, Dies and Beermann, Friedrich and Barrandon, Yann and
+             Sommer, Lukas",
+  journal = "J Cell Biol",
+  volume  =  175,
+  number  =  6,
+  pages   = "1005--1015",
+  month   =  dec,
+  year    =  2006
+}
+
+@ARTICLE{Yuan2007-rh,
+  title   = "Junying Yuan: changing avenues without losing focus. Interview by
+             Nicole {LeBrasseur}",
+  author  = "Yuan, Junying",
+  journal = "J Cell Biol",
+  volume  =  179,
+  number  =  2,
+  pages   = "174--175",
+  month   =  oct,
+  year    =  2007
+}
+
+@ARTICLE{Cushny1896-mf,
+  title   = "{ON} {THE} {ACTION} {OF} {PIPERIDINE} {AND} {SOME} {OF} {ITS}
+             {COMPOUNDS}",
+  author  = "Cushny, A R",
+  journal = "J Exp Med",
+  volume  =  1,
+  number  =  1,
+  pages   = "202--210",
+  month   =  jan,
+  year    =  1896
+}
+
+@ARTICLE{Alekhina2007-ps,
+  title   = "Translation of non-capped {mRNAs} in a eukaryotic cell-free
+             system: acceleration of initiation rate in the course of polysome
+             formation",
+  author  = "Alekhina, Olga M and Vassilenko, Konstantin S and Spirin,
+             Alexander S",
+  journal = "Nucleic Acids Res",
+  volume  =  35,
+  number  =  19,
+  pages   = "6547--6559",
+  month   =  sep,
+  year    =  2007
+}
+
+@ARTICLE{Malygin2007-st,
+  title   = "Human ribosomal protein {S13} regulates expression of its own gene
+             at the splicing step by a feedback mechanism",
+  author  = "Malygin, Alexey A and Parakhnevitch, Natalia M and Ivanov, Anton V
+             and Eperon, Ian C and Karpova, Galina G",
+  journal = "Nucleic Acids Res",
+  volume  =  35,
+  number  =  19,
+  pages   = "6414--6423",
+  month   =  sep,
+  year    =  2007
+}
+
+@ARTICLE{Chauveau1962-ry,
+  title    = "Isolation of smooth vesicles and free ribosomes from rat liver
+              microsomes",
+  author   = "Chauveau, J and Moule, Y and Rouiller, C and Schneebeli, J",
+  journal  = "J Cell Biol",
+  volume   =  12,
+  pages    = "17--29",
+  year     =  1962,
+  keywords = "NUCLEOPROTEINS/chemistry"
+}
+
+@ARTICLE{Craig1962-gp,
+  title    = "An embedding technique for electron microscopy using {EPON} 812",
+  author   = "Craig, E L and Frajola, W J and Greider, M H",
+  journal  = "J Cell Biol",
+  volume   =  12,
+  pages    = "190--194",
+  year     =  1962,
+  keywords = "HISTOLOGICAL TECHNIQUES; MICROSCOPY, ELECTRON; RESINS"
+}
+
+@ARTICLE{Easton1962-ui,
+  title    = "Demonstration of surface antigens and pinocytosis in mammalian
+              cells with ferritin-antibody conjugates",
+  author   = "Easton, J M and Goldberg, B and Green, H",
+  journal  = "J Cell Biol",
+  volume   =  12,
+  pages    = "437--443",
+  year     =  1962,
+  keywords = "ANTIBODIES/chemistry; ANTIGENS/chemistry; FERRITIN/chemistry;
+              MICROSCOPY, ELECTRON"
+}
+
+@ARTICLE{Ebashi1962-pg,
+  title   = "{ADENOSINE} {TRIPHOSPHATE-LINKED} {CONCENTRATION} {OF} {CALCIUM}
+             {IONS} {IN} A {PARTICULATE} {FRACTION} {OF} {RABBIT} {MUSCLE}",
+  author  = "Ebashi, S and Lipmann, F",
+  journal = "J Cell Biol",
+  volume  =  14,
+  number  =  3,
+  pages   = "389--400",
+  month   =  sep,
+  year    =  1962
+}
+
+@ARTICLE{Uchizono1962-yk,
+  title   = "{THE} {STRUCTURE} {OF} {POSSIBLE} {PHOTORECEPTIVE} {ELEMENTS} {IN}
+             {THE} {SIXTH} {ABDOMINAL} {GANGLION} {OF} {THE} {CRAYFISH}",
+  author  = "Uchizono, K",
+  journal = "J Cell Biol",
+  volume  =  15,
+  number  =  1,
+  pages   = "151--154",
+  month   =  oct,
+  year    =  1962
+}
+
+@ARTICLE{Moore1963-hk,
+  title   = "{FINE} {STRUCTURE} {OF} {MYCOTA} : 4. The Occurrence of the Golgi
+             Dictyosome in the Fungus Neobulgaria pura (Fr.) Petrak",
+  author  = "Moore, R T and McAlear, J H",
+  journal = "J Cell Biol",
+  volume  =  16,
+  number  =  1,
+  pages   = "131--141",
+  month   =  jan,
+  year    =  1963
+}
+
+@ARTICLE{Rappaport1963-kb,
+  title    = "The fine structure of normal and neoplastic melanocytes in the
+              Syrian hamster, with particular reference to carcinogen-induced
+              melanotic tumors",
+  author   = "Rappaport, H and Nakai, T and Swift, H",
+  journal  = "J Cell Biol",
+  volume   =  16,
+  pages    = "171--186",
+  year     =  1963,
+  keywords = "CHROMATOPHORES; MELANOMA"
+}
+
+@ARTICLE{Moor1963-kd,
+  title   = "{FINE} {STRUCTURE} {IN} {FROZEN-ETCHED} {YEAST} {CELLS}",
+  author  = "Moor, H and M{\"u}hlethaler, K",
+  journal = "J Cell Biol",
+  volume  =  17,
+  number  =  3,
+  pages   = "609--628",
+  month   =  jun,
+  year    =  1963
+}
+
+@ARTICLE{Warth1963-zj,
+  title    = "The composition and structure of bacterial spores",
+  author   = "Warth, A D and Ohye, D F and Murrell, W G",
+  journal  = "J Cell Biol",
+  volume   =  16,
+  pages    = "579--592",
+  year     =  1963,
+  keywords = "AMINO ACIDS; BACILLUS; BACILLUS CEREUS; BACILLUS SUBTILIS;
+              MUCOPROTEINS; PEPTIDES"
+}
+
+@ARTICLE{Nylen1963-iz,
+  title    = "Crystal growth in rat enamel",
+  author   = "Nylen, M U and Eanes, E D and Omnell, K A",
+  journal  = "J Cell Biol",
+  volume   =  18,
+  pages    = "109--123",
+  year     =  1963,
+  keywords = "DENTAL ENAMEL"
+}
+
+@ARTICLE{Jones1964-kf,
+  title    = "{THE} {EFFECTS} {OF} {ACTINOMYCIN} {D} {ON} {THE}
+              {ULTRASTRUCTURE} {OF} {THE} {NUCLEUS} {OF} {THE} {AMPHIBIAN}
+              {EMBRYONIC} {CELL}",
+  author   = "Jones, K W and Elsdale, T R",
+  journal  = "J Cell Biol",
+  volume   =  21,
+  pages    = "245--252",
+  year     =  1964,
+  keywords = "ACTINOMYCIN; CELL NUCLEUS; CHROMOSOMES; DNA; EMBRYO; EXPERIMENTAL
+              LAB STUDY; FROGS; MICROSCOPY, ELECTRON; MICROSCOPY, PHASE
+              CONTRAST; PHARMACOLOGY; RNA"
+}
+
+@ARTICLE{Cameron1964-vt,
+  title    = "{CYTOLOGICAL} {RESPONSES} {OF} {BROWN} {FAT} {TISSUE} {IN}
+              {COLD-EXPOSED} {RATS}",
+  author   = "Cameron, I L and Smith, R E",
+  journal  = "J Cell Biol",
+  volume   =  23,
+  pages    = "89--100",
+  month    =  oct,
+  year     =  1964,
+  keywords = "ADIPOSE TISSUE; CELL DIVISION; CELL STRUCTURE; COLD; CYTOLOGY;
+              EXPERIMENTAL LAB STUDY; HISTOLOGY; RATS"
+}
+
+@ARTICLE{Miller1964-jg,
+  title    = "{AUTORADIOGRAPHY} {OF} {SOLUBLE} {MATERIALS}",
+  author   = "Miller, Jr, O L and Stone, G E and Prescott, D M",
+  journal  = "J Cell Biol",
+  volume   =  23,
+  pages    = "654--658",
+  month    =  dec,
+  year     =  1964,
+  keywords = "CYTOLOGY; DNA; EXPERIMENTAL LAB STUDY; HISTOLOGICAL TECHNICS;
+              METABOLISM; RADIOAUTOGRAPHY; TECHNOLOGY, RADIOLOGIC; TETRAHYMENA;
+              THYMIDINE; TISSUE CULTURE; TRITIUM"
+}
+
+@ARTICLE{Sommer1965-dg,
+  title    = "{THE} {ULTRASTRUCTURE} {OF} {THE} {PELLICLE} {COMPLEX} {OF}
+              {EUGLENA} {GRACILIS}",
+  author   = "Sommer, J R",
+  journal  = "J Cell Biol",
+  volume   =  24,
+  pages    = "253--257",
+  year     =  1965,
+  keywords = "ACID PHOSPHATASE; CELL DIVISION; CELL MEMBRANE; CELL STRUCTURE;
+              ENDOPLASMIC RETICULUM; EUGLENA; EXPERIMENTAL LAB STUDY;
+              MICROSCOPY, ELECTRON"
+}
+
+@ARTICLE{Elbers1965-ju,
+  title    = "{ELECTRON} {MICROSCOPE} {AND} {X-RAY} {DIFFRACTION} {STUDIES}
+              {ON} A {HOMOLOGOUS} {SERIES} {OF} {SATURATED}
+              {PHOSPHATIDYLCHOLINES}",
+  author   = "Elbers, P F and Ververgaert, P H",
+  journal  = "J Cell Biol",
+  volume   =  25,
+  pages    = "375--385",
+  year     =  1965,
+  keywords = "EXPERIMENTAL LAB STUDY; LECITHINS; MICROSCOPY, ELECTRON; X-RAY
+              DIFFRACTION"
+}
+
+@ARTICLE{Leduc1965-rj,
+  title   = "Hydroxypropyl methacrylate, a new water-miscible embedding medium
+             for electron microscopy",
+  author  = "Leduc, E H and Holt, S J",
+  journal = "J Cell Biol",
+  volume  =  26,
+  number  =  1,
+  pages   = "137--155",
+  year    =  1965
+}
+
+@ARTICLE{Koller1965-jb,
+  title   = "Mounting of ultrathin sections with the aid of an electrostatic
+             field",
+  author  = "Koller, T",
+  journal = "J Cell Biol",
+  volume  =  27,
+  number  =  2,
+  pages   = "441--445",
+  month   =  nov,
+  year    =  1965
+}
+
+@ARTICLE{Seraydarian1965-vo,
+  title   = "Density gradient separation of sarcotubular vesicles and other
+             particulate constituents of rabbit muscle",
+  author  = "Seraydarian, K and Mommaerts, W F",
+  journal = "J Cell Biol",
+  volume  =  26,
+  number  =  2,
+  pages   = "641--656",
+  year    =  1965
+}
+
+@ARTICLE{Montgomery1965-ns,
+  title   = "{ULTRAVIOLET} {MICROBEAM} {IRRADIATION} {IN} {LIVING} {CELL}
+             {MEMBRANES}",
+  author  = "Montgomery, P O and Cook, J E and Karney, D",
+  journal = "J Cell Biol",
+  volume  =  26,
+  number  =  3,
+  pages   = "959--961",
+  month   =  sep,
+  year    =  1965
+}
+
+@ARTICLE{Coggeshall1966-ee,
+  title   = "A fine structural analysis of the epidermis of the earthworm,
+             Lumbricus terrestris {L}",
+  author  = "Coggeshall, R E",
+  journal = "J Cell Biol",
+  volume  =  28,
+  number  =  1,
+  pages   = "95--108",
+  year    =  1966
+}
+
+@ARTICLE{Kelly1966-oe,
+  title   = "Fine structure of desmosomes. , hemidesmosomes, and an adepidermal
+             globular layer in developing newt epidermis",
+  author  = "Kelly, D E",
+  journal = "J Cell Biol",
+  volume  =  28,
+  number  =  1,
+  pages   = "51--72",
+  year    =  1966
+}
+
+@ARTICLE{Holt1966-gm,
+  title   = "The importance of osmiophilia in the production of stable
+             azoindoxyl complexes of high contrast for combined enzyme
+             cytochemistry and electron microscopy",
+  author  = "Holt, S J and Hicks, R M",
+  journal = "J Cell Biol",
+  volume  =  29,
+  number  =  2,
+  pages   = "361--366",
+  year    =  1966
+}
+
+@ARTICLE{Taylor1966-wc,
+  title   = "Microtubules in the microspikes and cortical cytoplasm of isolated
+             cells",
+  author  = "Taylor, A C",
+  journal = "J Cell Biol",
+  volume  =  28,
+  number  =  2,
+  pages   = "155--168",
+  year    =  1966
+}
+
+@ARTICLE{Griffin1966-xw,
+  title   = "Studies on the mechanism of hormonal induction of alkaline
+             phosphatase in human cell cultures. I. Effects of puromycin and
+             actinomycin {D}",
+  author  = "Griffin, M J and Cox, R P",
+  journal = "J Cell Biol",
+  volume  =  29,
+  number  =  1,
+  pages   = "1--9",
+  year    =  1966
+}
+
+@ARTICLE{Greenawalt1966-oj,
+  title   = "Electron microscope studies on the active accumulation of Sr++ by
+             rat-liver mitochondria",
+  author  = "Greenawalt, J W and Carafoli, E",
+  journal = "J Cell Biol",
+  volume  =  29,
+  number  =  1,
+  pages   = "37--61",
+  year    =  1966
+}
+
+@ARTICLE{Bloom1966-mm,
+  title   = "Fine structural localization of acetylcholinesterase in
+             electroplaque of the electric eel",
+  author  = "Bloom, F E and Barrnett, R J",
+  journal = "J Cell Biol",
+  volume  =  29,
+  number  =  3,
+  pages   = "475--495",
+  year    =  1966
+}
+
+@ARTICLE{Siekevitz1966-vq,
+  title   = "Distribution of newly synthesized amylase in microsomal
+             subfractions of guinea pigs pancreas",
+  author  = "Siekevitz, P and Palade, G E",
+  journal = "J Cell Biol",
+  volume  =  30,
+  number  =  3,
+  pages   = "519--530",
+  year    =  1966
+}
+
+@ARTICLE{Fleischer1967-xl,
+  title   = "Fine structure of lipid-depleted mitochondria",
+  author  = "Fleischer, S and Fleischer, B and Stoeckenius, W",
+  journal = "J Cell Biol",
+  volume  =  32,
+  number  =  1,
+  pages   = "193--208",
+  year    =  1967
+}
+
+@ARTICLE{Anderson1967-xs,
+  title   = "Cytodifferentiation during spermiogenesis in Lumbricus terrestris",
+  author  = "Anderson, W A and Weissman, A and Ellis, R A",
+  journal = "J Cell Biol",
+  volume  =  32,
+  number  =  1,
+  pages   = "11--26",
+  year    =  1967
+}
+
+@ARTICLE{Terzakis1967-hv,
+  title   = "Substructure in an epithelial basal lamina (basement membrane)",
+  author  = "Terzakis, J A",
+  journal = "J Cell Biol",
+  volume  =  35,
+  number  =  1,
+  pages   = "273--278",
+  month   =  oct,
+  year    =  1967
+}
+
+@ARTICLE{Scott1967-tw,
+  title   = "{Thymidine-3H} electron microscope radioautography of osteogenic
+             cells in the fetal rat",
+  author  = "Scott, B L",
+  journal = "J Cell Biol",
+  volume  =  35,
+  number  =  1,
+  pages   = "115--126",
+  month   =  oct,
+  year    =  1967
+}
+
+@ARTICLE{Stirling1967-hi,
+  title   = "High-resolution radioautography of galactose-3H accumulation in
+             rings of hamster intestine",
+  author  = "Stirling, C E and Kinter, W B",
+  journal = "J Cell Biol",
+  volume  =  35,
+  number  =  3,
+  pages   = "585--604",
+  month   =  dec,
+  year    =  1967
+}
+
+@ARTICLE{Roth1967-mc,
+  title   = "Electron microscopy of mitosis in amebae. 3. Cold and urea
+             treatments: a basis for tests of direct effects of mitotic
+             inhibitors on microtubule formation",
+  author  = "Roth, L E",
+  journal = "J Cell Biol",
+  volume  =  34,
+  number  =  1,
+  pages   = "47--59",
+  year    =  1967
+}
+
+@ARTICLE{Bowers1967-uf,
+  title   = "Lysosomes in lymphoid tissue. 3. Influence of various treatments
+             of the animals on the distribution of acid hydrolases",
+  author  = "Bowers, W E and de Duve, C",
+  journal = "J Cell Biol",
+  volume  =  32,
+  number  =  2,
+  pages   = "349--364",
+  year    =  1967
+}
+
+@ARTICLE{Newcomb1967-jp,
+  title   = "Fine structure of protein-storing plastids in bean root tips",
+  author  = "Newcomb, E H",
+  journal = "J Cell Biol",
+  volume  =  33,
+  number  =  1,
+  pages   = "143--163",
+  year    =  1967
+}
+
+@ARTICLE{Fernandez-Madrid1967-cq,
+  title   = "Biochemical and physicochemical characterization of
+             collagen-synthesizing polyribosomes",
+  author  = "Fern{\'a}ndez-Madrid, F",
+  journal = "J Cell Biol",
+  volume  =  33,
+  number  =  1,
+  pages   = "27--42",
+  year    =  1967
+}
+
+@ARTICLE{McCombs1968-vj,
+  title   = "The use of millipore filters in ultrastructural studies of cell
+             cultures and viruses",
+  author  = "McCombs, R M and Benyesh-Melnick, M and Brunschwig, J P",
+  journal = "J Cell Biol",
+  volume  =  36,
+  number  =  1,
+  pages   = "231--243",
+  year    =  1968
+}
+
+@ARTICLE{Boone1968-ck,
+  title   = "The resolution of mixtures of viable mammalian cells into
+             homogeneous fractions by zonal centrifugation",
+  author  = "Boone, C W and Harell, G S and Bond, H E",
+  journal = "J Cell Biol",
+  volume  =  36,
+  number  =  2,
+  pages   = "369--378",
+  year    =  1968
+}
+
+@ARTICLE{Enger1968-hj,
+  title   = "{RNA} synthesis in Chinese hamster cells. (I) Differential
+             synthetic rate for ribosomal {RNA} in early and late interphase",
+  author  = "Enger, M D and Tobey, R A and Saponara, A G",
+  journal = "J Cell Biol",
+  volume  =  36,
+  number  =  3,
+  pages   = "583--593",
+  year    =  1968
+}
+
+@ARTICLE{Fabrikant1968-si,
+  title   = "The kinetics of cellular proliferation in regenerating Liver
+             (edited)",
+  author  = "Fabrikant, J I",
+  journal = "J Cell Biol",
+  volume  =  36,
+  number  =  3,
+  pages   = "551--565",
+  year    =  1968
+}
