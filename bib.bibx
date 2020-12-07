@@ -39,50 +39,6 @@
               Factors"
 }
 
-@ARTICLE{Gleeson2009-fc,
-  title    = "Becoming involved in raising a relative's child: reasons,
-              caregiver motivations and pathways to informal kinship care",
-  author   = "Gleeson, J P and Wesley, J M and Ellis, R and Seryak, C and
-              Talley, G W and Robinson, J",
-  abstract = "Gleeson, James P. Wesley, Julia M. Ellis, Raquel Seryak, Claire
-              Talley, Gwen Walls Robinson, Jackie 1365-2206",
-  journal  = "Child \& Family Social Work",
-  volume   =  14,
-  number   =  3,
-  pages    = "300--310",
-  year     =  2009
-}
-
-@ARTICLE{Gallardo-Peralta2018-bb,
-  title    = "Family and community support among older Chilean adults: the
-              importance of heterogeneous social support sources for quality of
-              life",
-  author   = "Gallardo-Peralta, L P and de Roda, A B L and Molina-Martinez, M A
-              and del Moral, R S",
-  abstract = "Gallardo-Peralta, Lorena P. Barron Lopez de Roda, Ana Angeles
-              Molina-Martinez, M. Schettini del Moral, Rocio 0163-4372",
-  journal  = "J. Gerontol. Soc. Work",
-  volume   =  61,
-  number   =  6,
-  pages    = "584--604",
-  year     =  2018
-}
-
-@ARTICLE{Garcia2015-vi,
-  title    = "The Influence of Caregiver Depression on Children in Non-relative
-              Foster Care Versus Kinship Care Placements",
-  author   = "Garcia, A and O'Reilly, A and Matone, M and Kim, M and Long, J
-              and Rubin, D M",
-  abstract = "Garcia, Antonio O'Reilly, Amanda Matone, Meredith Kim, Minseop
-              Long, Jin Rubin, David M. Kim, Minseop/0000-0002-8253-2371
-              1573-6628",
-  journal  = "Matern. Child Health J.",
-  volume   =  19,
-  number   =  3,
-  pages    = "459--467",
-  year     =  2015
-}
-
 @ARTICLE{Friedman1993-re,
   title    = "Old and in the way",
   author   = "Friedman, E",
@@ -120,60 +76,6 @@
   number  =  1,
   pages   = "121--140",
   year    =  2019
-}
-
-@ARTICLE{Glaser1994-te,
-  title    = "``Grandma, please''!",
-  author   = "Glaser, M",
-  abstract = "An intergenerational telephone reassurance line for latchkey
-              children helps them cope with being home alone and keeps the
-              volunteer older adults in the mainstream.",
-  journal  = "J. Long Term Care Adm.",
-  volume   =  22,
-  number   =  1,
-  pages    = "4--6",
-  year     =  1994,
-  keywords = "Aged Chicago Child Child Care/*organization \& administration
-              *Frail Elderly *Hotlines Humans *Intergenerational Relations
-              Volunteers/organization \& administration Workforce"
-}
-
-@ARTICLE{Glass1997-ud,
-  title   = "Satisfaction in later life among women 60 or over",
-  author  = "Glass, J C and Jolly, G R",
-  journal = "Educ. Gerontol.",
-  volume  =  23,
-  number  =  4,
-  pages   = "297--314",
-  year    =  1997
-}
-
-@INCOLLECTION{Glazier2011-af,
-  title     = "Recertification for grandfathers",
-  booktitle = "Am {J} Med",
-  author    = "Glazier, J J",
-  abstract  = "Glazier, James J Letter Comment The American journal of medicine
-               S0002-9343(11)00253-1 [pii] Am J Med. 2011 Oct;124(10):e11;
-               author reply e13. doi: 10.1016/j.amjmed.2011.02.020.",
-  volume    =  124,
-  pages     = "e11; author reply e13",
-  year      =  2011,
-  address   = "United States",
-  keywords  = "Certification/*standards Humans Internal Medicine/*standards
-               *Quality of Health Care *Self-Assessment *Specialty Boards"
-}
-
-@ARTICLE{Gleeson2016-vq,
-  title    = "Social support, family competence, and informal kinship caregiver
-              parenting stress: The mediating and moderating effects of family
-              resources",
-  author   = "Gleeson, J P and Hsieh, C M and Cryer-Coupet, Q",
-  abstract = "Gleeson, James P. Hsieh, Chang-ming Cryer-Coupet, Qiana
-              Cryer-Coupet, Qiana/0000-0002-4537-0799 1873-7765",
-  journal  = "Child. Youth Serv. Rev.",
-  volume   =  67,
-  pages    = "32--42",
-  year     =  2016
 }
 
 @ARTICLE{Edwards1998-lr,
@@ -298,43 +200,6 @@
   year    =  2007
 }
 
-@ARTICLE{Gao2019-ft,
-  title    = "Depressive Symptoms Among Adult Children Aged 55 Years or Older:
-              The Effects of Support Provided to Their Older Parents",
-  author   = "Gao, X and Guo, Q J and Sun, F and Hodge, D R",
-  abstract = "Gao, Xiang Guo, Qiuju Sun, Fei Hodge, David R. Gao,
-              Xiang/0000-0002-8690-374X 1541-3535",
-  journal  = "Int. J. Aging Hum. Dev.",
-  volume   =  89,
-  number   =  4,
-  pages    = "372--386",
-  year     =  2019
-}
-
-@ARTICLE{Gao2019-gq,
-  title    = "Elder Mistreatment Among Older Chinese Americans: The Role of
-              Family Cohesion",
-  author   = "Gao, X and Sun, F and Marsiglia, F F and Dong, X Q",
-  abstract = "Gao, Xiang Sun, Fei Marsiglia, Flavio F. Dong, Xinqi Gao,
-              Xiang/0000-0002-8690-374X 1541-3535",
-  journal  = "Int. J. Aging Hum. Dev.",
-  volume   =  88,
-  number   =  3,
-  pages    = "266--285",
-  year     =  2019
-}
-
-@ARTICLE{Garay2018-iv,
-  title    = "Caring for parents: an evolutionary rationale",
-  author   = "Garay, J and Szamado, S and Varga, Z and Szathmary, E",
-  abstract = "Garay, J. Szamado, S. Varga, Z. Szathmary, E. Szamado,
-              Szabolcs/A-9804-2013; Varga, Zoltan/W-6418-2018 Szamado,
-              Szabolcs/0000-0003-2204-9705; Szathmary, Eors/0000-0001-5227-2997",
-  journal  = "BMC Biol.",
-  volume   =  16,
-  year     =  2018
-}
-
 @ARTICLE{Do2012-yn,
   title    = "The effect of coresidence with an adult child on depressive
               symptoms among older widowed women in South Korea: an
@@ -429,46 +294,6 @@
   number  =  3,
   pages   = "383--399",
   year    =  2015
-}
-
-@ARTICLE{Funk2009-yw,
-  title    = "``Choice'' in filial care work: moving beyond a dichotomy",
-  author   = "Funk, L M and Kobayashi, K M",
-  abstract = "In this paper, we discuss the concept of``choice'' in filial care
-              work. A dichotomy between choice and obligation is constructed in
-              theoretical and empirical literature on filial care work.
-              However, this dichotomy does not adequately reflect family
-              caregiving experiences; for instance, choice and obligation are
-              not mutually exclusive motivations. Rather, choice and obligation
-              are ``relational'' and ``contextual'' and manifest in the
-              interaction between macro- and micro-contexts. The
-              choice-obligation dichotomy is also ideological. At the
-              moral-political level, it promotes the downloading of
-              responsibility by governments to family, obscures the complexity
-              of filial relationships, and may even promote psychological
-              ambivalence.",
-  journal  = "Can. Rev. Sociol.",
-  volume   =  46,
-  number   =  3,
-  pages    = "235--252",
-  year     =  2009,
-  keywords = "Adult Children Aged Canada *Caregivers/psychology *Choice
-              Behavior *Health Services for the Aged Humans Intergenerational
-              Relations *Parent-Child Relations *Social Responsibility"
-}
-
-@ARTICLE{Furstenberg2015-qx,
-  title    = "The Future of Intergenerational Relations in Aging Societies",
-  author   = "Furstenberg, F F and Hartnett, C S and Kohli, M and
-              Zissimopoulos, J M",
-  abstract = "Furstenberg, Frank F. Hartnett, Caroline Sten Kohli, Martin
-              Zissimopoulos, Julie M. Furstenberg, Frank F/A-7837-2009
-              1548-6192",
-  journal  = "Daedalus",
-  volume   =  144,
-  number   =  2,
-  pages    = "31--40",
-  year     =  2015
 }
 
 @ARTICLE{Fuller-Thomson2005-rs,
@@ -914,41 +739,6 @@
               \& numerical data"
 }
 
-@ARTICLE{Glei2013-if,
-  title    = "Sex differences in trajectories of depressive symptoms among
-              older Taiwanese: the contribution of selected stressors and
-              social factors",
-  author   = "Glei, D A and Goldman, N and Liu, I W and Weinstein, M",
-  abstract = "Glei, Dana A. Goldman, Noreen Liu, I-Wen Weinstein, Maxine
-              1364-6915",
-  journal  = "Aging Ment. Health",
-  volume   =  17,
-  number   =  6,
-  pages    = "773--783",
-  year     =  2013
-}
-
-@ARTICLE{Goetting2000-px,
-  title   = "Older adults and financial bequests",
-  author  = "Goetting, M A and Martin, P and Johnson, C",
-  journal = "Int. J. Aging Hum. Dev.",
-  volume  =  50,
-  number  =  3,
-  pages   = "227--244",
-  year    =  2000
-}
-
-@ARTICLE{Goh2016-tt,
-  title    = "Intergenerational Reciprocity Reconsidered: The Honour and Burden
-              of Grandparenting in Urban China",
-  author   = "Goh, E C L and Tsang, B Y P and Chokkanathan, S",
-  abstract = "Goh, Esther C. L. Tsang, Bill Y. P. Chokkanathan, Srinivasan Goh,
-              Esther C L/K-8511-2012 Goh, Esther C L/0000-0002-0235-2363",
-  journal  = "Intersections-Gender and Sexuality in Asia and the Pacific",
-  number   =  39,
-  year     =  2016
-}
-
 @ARTICLE{Faresjo1994-db,
   title    = "Social mobility and health in a prospective study of middle-aged
               men",
@@ -990,53 +780,6 @@
   number   =  2,
   pages    = "86--89",
   year     =  1994
-}
-
-@ARTICLE{Goodman2003-gg,
-  title    = "Intergenerational triads in grandparent-headed families",
-  author   = "Goodman, C C",
-  abstract = "Objectives. Grandparents are becoming caregivers of their
-              grandchildren more often as a result of their adult children's
-              drug addiction, mental problems, and financial need. This study
-              examined grandmothers' well-being in relation to bonding within
-              intergenerational triads consisting of grandmother, parent, and
-              grandchild. Methods. Interviews were conducted with 987
-              grandmothers recruited through schools and media, including 512
-              custodial grandmothers raising their grandchildren and 475
-              coparenting grandmothers helping their adult sons or daughters to
-              raise their grandchildren. Results. Contrary to expectation,
-              triangulation involving a weak parent-grandmother relationship
-              was not related to significantly lower grandmother well-being. In
-              contrast, the emotionally isolated parent, particularly common in
-              custodial families, was related to lower grandmother well-being,
-              whether or not the parent lived in the household. The
-              configuration in which the parent provided a link for both other
-              generations was frequent in coparenting families, but it was not
-              significantly different in grandmother well-being compared to
-              other linking triads. Discussion. Intergenerational triad types
-              appear to be broadly relevant emotional configurations that
-              transcend living situations but appear with different frequencies
-              in custodial and coparenting families. Results affirm the utility
-              of examining multirelationship patterns and describe the
-              restructuring of intergenerational relationships characteristic
-              of parental absence.",
-  journal  = "Journals of Gerontology Series B-Psychological Sciences and
-              Social Sciences",
-  volume   =  58,
-  number   =  5,
-  pages    = "S281--S289",
-  year     =  2003
-}
-
-@ARTICLE{Goodman2006-ei,
-  title   = "Grandmothers raising grandchildren - Ethnic and racial differences
-             in well-being among custodial and coparenting families",
-  author  = "Goodman, C C and Silverstein, M",
-  journal = "J. Fam. Issues",
-  volume  =  27,
-  number  =  11,
-  pages   = "1605--1626",
-  year    =  2006
 }
 
 @ARTICLE{Emilsson2016-vv,
@@ -1254,58 +997,6 @@
   year    =  2008
 }
 
-@ARTICLE{Furnham1993-ia,
-  title    = "Gender, generational and social support correlates of mental
-              health in Asian immigrants",
-  author   = "Furnham, A and Shiekh, S",
-  abstract = "A sample of 100 Asian immigrants, mainly from India and Pakistan,
-              were interviewed in their native language (Urdu, Punjabi, Hindi
-              or English) concerning their psychological adjustment to life in
-              Britain. It was predicted that female Indo-Pakistan immigrants
-              would have higher levels of psychological symptomatology than
-              male immigrants; and that second generation immigrants would have
-              higher levels of psychological symptomatology than the first
-              generation immigrants did not have higher levels of psychological
-              symptoms than the first generation immigrants. Social support
-              networks of the subjects were not correlated with mental health.
-              However for the two generations, there was evidence linking
-              social support to mental health. The extent of acculturisation,
-              as measured by identificational assimilation, was not correlated
-              with mental health. Results are discussed in terms of the
-              burgeoning literature in this field.",
-  journal  = "Int. J. Soc. Psychiatry",
-  volume   =  39,
-  number   =  1,
-  pages    = "22--33",
-  year     =  1993,
-  keywords = "*Acculturation Adaptation, Psychological Adolescent Adult
-              *Emigration and Immigration Ethnic Groups/*psychology Female
-              *Gender Identity Humans India/ethnology *Intergenerational
-              Relations Male Middle Aged Pakistan/ethnology Personality
-              Inventory Social Environment *Social Support United Kingdom"
-}
-
-@ARTICLE{Gaggioli2014-yn,
-  title    = "Intergenerational Group Reminiscence: A Potentially Effective
-              Intervention to Enhance Elderly Psychosocial Wellbeing and to
-              Improve Children's Perception of Aging",
-  author   = "Gaggioli, A and Morganti, L and Bonfiglio, S and Scaratti, C and
-              Cipresso, P and Serino, S and Riva, G",
-  abstract = "Gaggioli, Andrea Morganti, Luca Bonfiglio, Silvio Scaratti,
-              Chiara Cipresso, Pietro Serino, Silvia Riva, Giuseppe Cipresso,
-              Pietro/G-4676-2011; Scaratti, Chiara/K-5196-2018; Serino,
-              Silvia/K-5142-2016; Riva, Giuseppe/C-5917-2008 Cipresso,
-              Pietro/0000-0002-0662-7678; Scaratti, Chiara/0000-0002-6664-4787;
-              Serino, Silvia/0000-0002-8422-1358; Riva,
-              Giuseppe/0000-0003-3657-106X; Gaggioli,
-              Andrea/0000-0001-7818-7598 1521-0472",
-  journal  = "Educ. Gerontol.",
-  volume   =  40,
-  number   =  7,
-  pages    = "486--498",
-  year     =  2014
-}
-
 @ARTICLE{Fujiwara2006-yn,
   title    = "[An intergenerational health promotion program involving older
               adults in urban areas. ``Research of Productivity by
@@ -1410,172 +1101,6 @@
   number  =  4,
   pages   = "804--822",
   year    =  2017
-}
-
-@ARTICLE{Golaz2017-gj,
-  title    = "Understanding the vulnerability of older adults: extent of and
-              breaches in support systems in Uganda",
-  author   = "Golaz, V and Wandera, S O and Rutaremwa, G",
-  abstract = "Golaz, Valerie Wandera, Stephen Ojiambo Rutaremwa, Gideon
-              Wandera, Stephen O./D-2735-2016 Wandera, Stephen
-              O./0000-0002-5617-0274; Golaz, Valerie/0000-0002-5460-5692
-              1469-1779",
-  journal  = "Ageing \& Society",
-  volume   =  37,
-  number   =  1,
-  pages    = "63--89",
-  year     =  2017
-}
-
-@ARTICLE{Goncalves2016-qr,
-  title   = "Overcoming ageism through a new intergenerational learning
-             paradigm: challenges and findings",
-  author  = "Goncalves, M and Hatton-Yeo, A and Farcas, D",
-  journal = "Quality in Ageing and Older Adults",
-  volume  =  17,
-  number  =  4,
-  pages   = "239--245",
-  year    =  2016
-}
-
-@ARTICLE{Gondwe2014-gc,
-  title    = "Perceptions and experiences of community members on caring for
-              preterm newborns in rural Mangochi, Malawi: a qualitative study",
-  author   = "Gondwe, A and Munthali, A C and Ashorn, P and Ashorn, U",
-  abstract = "Gondwe, Austrida Munthali, Alister C. Ashorn, Per Ashorn, Ulla
-              Ashorn, Per/0000-0003-2311-2593",
-  journal  = "BMC Pregnancy Childbirth",
-  volume   =  14,
-  year     =  2014
-}
-
-@ARTICLE{Gonzales2007-kf,
-  title   = "Determinants of parent-child coresidence among older mexican
-             parents: The salience of cultural values",
-  author  = "Gonzales, A M",
-  journal = "Sociol. Perspect.",
-  volume  =  50,
-  number  =  4,
-  pages   = "561--577",
-  year    =  2007
-}
-
-@ARTICLE{Glaser2018-fn,
-  title    = "Trends in the prevalence of grandparents living with
-              grandchild(ren) in selected European countries and the United
-              States",
-  author   = "Glaser, K and Stuchbury, R and Price, D and Di Gessa, G and Ribe,
-              E and Tinker, A",
-  abstract = "Glaser, Karen Stuchbury, Rachel Price, Debora Di Gessa, Giorgio
-              Ribe, Eloi Tinker, Anthea ; Price, Debora/P-2463-2014 Tinker,
-              Anthea/0000-0002-0305-7198; Price, Debora/0000-0003-3398-6083; Di
-              Gessa, Giorgio/0000-0001-6154-1845 1613-9380",
-  journal  = "Eur. J. Ageing",
-  volume   =  15,
-  number   =  3,
-  pages    = "237--250",
-  year     =  2018
-}
-
-@ARTICLE{Glaser2000-ih,
-  title    = "Proximity of older women to their children: a comparison of
-              Britain and Italy",
-  author   = "Glaser, K and Tomassini, C",
-  abstract = "This research examined differences between Britain and Italy in
-              the proximity of older women (aged 60-74) to their children. We
-              hypothesized that in Britain proximity is more likely to result
-              from the needs of the older generation, whereas in Italy it is
-              more likely to reflect a cultural preference. Employing data from
-              the British Retirement Survey follow-up in 1994, and the 1995
-              Italian Indagine Multiscopo sulle Famiglie, we applied
-              multinomial logit models to examine the correlates of proximity.
-              Our findings showed that, in Britain, mothers' health had a
-              greater impact on proximity than in Italy, suggesting that the
-              needs of the older generation in Britain were important for
-              determining proximity. An additional analysis showed that
-              children's characteristics were also important in determining
-              proximity in Italy, mainly because of delayed adult transitions.
-              This supports the hypothesis that intergenerational proximity in
-              Italy is more likely to be a response to the needs of children
-              than of parents.",
-  journal  = "Gerontologist",
-  volume   =  40,
-  number   =  6,
-  pages    = "729--737",
-  year     =  2000,
-  keywords = "Activities of Daily Living Aged/*psychology/*statistics \&
-              numerical data Cross-Cultural Comparison Family
-              Characteristics/*ethnology Female Follow-Up Studies Geriatric
-              Assessment Health Status Humans Intergenerational
-              Relations/*ethnology Italy Logistic Models Middle Aged
-              Mothers/*psychology/*statistics \& numerical data Needs
-              Assessment Parent-Child Relations/*ethnology Residence
-              Characteristics/*statistics \& numerical data Socioeconomic
-              Factors United Kingdom Widowhood/*psychology/*statistics \&
-              numerical data"
-}
-
-@ARTICLE{Gebeyehu2019-jj,
-  title    = "Burden, Social Support, and Life Satisfaction Among Caregivers of
-              Children With Intellectual Disability: The Case of Felege Abay
-              and Shembt Primary Schools, Bahir Dar, Ethiopia",
-  author   = "Gebeyehu, F and Sahile, A and Ayalew, M",
-  abstract = "This study was conducted to examine the burden, social support,
-              and life satisfaction among caregivers of children with
-              intellectual disability. The level of burden, social support, and
-              life satisfaction of caregivers; the relationship among burden
-              level, social support, and life satisfaction; and burden level
-              difference across sociodemographic characteristics of the
-              participants were the objectives of this study. With inclusion
-              criteria of availability, willingness, and pertinent priority of
-              being parents, grandparents, and siblings of the child, 74
-              caregivers were selected using comprehensive sampling technique.
-              Descriptive statistics, one sample t test, Pearson correlation
-              coefficient, independent sample t test, and one-way analysis of
-              variance, were used for data analysis. The findings revealed that
-              caregivers are experiencing much level of burden with inadequate
-              social support and have pitiable satisfaction in their life.
-              Burden is negatively correlated with social support and life
-              satisfaction, but social support is positively correlated with
-              satisfaction in life. Some of the sociodemographic variables,
-              such as sex and school, were showing significant differences in
-              the experiences of burden level, while all other sociodemographic
-              variables used in this study were not having significant
-              difference. The result implied that caregivers are in need of
-              social support so as to outweigh the level of burden and enhance
-              their satisfaction in life.",
-  journal  = "Int. Q. Community Health Educ.",
-  volume   =  39,
-  number   =  3,
-  pages    = "147--153",
-  year     =  2019,
-  keywords = "Adult Aged Caregivers/*psychology Child Disabled
-              Children/*psychology Educational Status Ethiopia Female Humans
-              Intellectual Disability/*psychology Male Middle Aged *Personal
-              Satisfaction Quality of Life Sex Factors *Social Support
-              Socioeconomic Factors burden caregivers intellectual disability
-              life satisfaction social support"
-}
-
-@ARTICLE{Gedvilaite-Kordusiene2015-gb,
-  title   = "Does Adult Children Migration Lower the Level of Intergenerational
-             Solidarity? Evidence from Lithuanian Transnational Families",
-  author  = "Gedvilaite-Kordusiene, M",
-  journal = "Polish Sociological Review",
-  number  =  189,
-  pages   = "47--68",
-  year    =  2015
-}
-
-@ARTICLE{Gelfand1994-uh,
-  title   = "{IMMIGRATION}, {THE} {FAMILY}, {AND} {FEMALE} {CAREGIVERS} {IN}
-             {AUSTRALIA}",
-  author  = "Gelfand, D E and McCallum, J",
-  journal = "J. Gerontol. Soc. Work",
-  volume  =  22,
-  number  = "3-4",
-  pages   = "41--59",
-  year    =  1994
 }
 
 @ARTICLE{Doubt2017-kx,
@@ -1700,52 +1225,6 @@
               Poverty/*ethnology/statistics \& numerical data Prevalence Social
               Welfare/ethnology/statistics \& numerical data Socioeconomic
               Factors United States"
-}
-
-@ARTICLE{Gair2019-rr,
-  title    = "Grandparents battle to be key stakeholders in protecting
-              grandchildren",
-  author   = "Gair, S and Zuchowski, I and Henderson, D and Thorpe, R and
-              Munns, L",
-  abstract = "Gair, Susan Zuchowski, Ines Henderson, Debbie Thorpe, Ros Munns,
-              Lyn",
-  journal  = "Aotearoa New Zealand Social Work",
-  volume   =  31,
-  number   =  1,
-  pages    = "101--113",
-  year     =  2019
-}
-
-@ARTICLE{Gal2010-or,
-  title   = "Is there an extended family of Mediterranean welfare states?",
-  author  = "Gal, J",
-  journal = "J. Eur. Soc. Policy",
-  volume  =  20,
-  number  =  4,
-  pages   = "283--300",
-  year    =  2010
-}
-
-@ARTICLE{Gal2015-ym,
-  title    = "The age-profile of invisible transfers: The true size of
-              asymmetry in inter-age reallocations",
-  author   = "Gal, R I and Szabo, E and Vargha, L",
-  abstract = "Gal, Robert I. Szabo, Endre Vargha, Lili 2212-8298",
-  journal  = "Journal of the Economics of Ageing",
-  volume   =  5,
-  pages    = "98--104",
-  year     =  2015
-}
-
-@ARTICLE{Gallagher2018-mo,
-  title   = "``It's a {Win-Win} Situation'' - Intergenerational Learning in
-             Preschool and Elder Care Settings: An Irish Perspective",
-  author  = "Gallagher, C and Fitzpatrick, A",
-  journal = "J. Intergener. Relatsh.",
-  volume  =  16,
-  number  = "1-2",
-  pages   = "26--44",
-  year    =  2018
 }
 
 @ARTICLE{Frank1989-ab,
@@ -2035,33 +1514,6 @@
   year     =  2011
 }
 
-@ARTICLE{Gierveld2012-gz,
-  title    = "Living arrangements, intergenerational support types and older
-              adult loneliness in Eastern and Western Europe",
-  author   = "Gierveld, J D and Dykstra, P A and Schenk, N",
-  abstract = "Gierveld, Jenny de Jong Dykstra, Pearl A. Schenk, Niels Dykstra,
-              Pearl/E-9679-2013 Dykstra, Pearl/0000-0003-1518-1476",
-  journal  = "Demogr. Res.",
-  volume   =  27,
-  pages    = "167--199",
-  year     =  2012
-}
-
-@ARTICLE{Gillespie1988-pv,
-  title    = "Good Hope maternity unit's Grandparents Open Weekend Fayre",
-  author   = "Gillespie, L",
-  abstract = "Gillespie, L Journal Article England Midwives Chron. 1988
-              Nov;101(1210):349.",
-  journal  = "Midwives Chron.",
-  volume   =  101,
-  number   =  1210,
-  pages    = "349",
-  year     =  1988,
-  keywords = "Aged England *Family Female *Health Education *Health Fairs
-              Humans *Infant Care Infant, Newborn Interpersonal Relations Male
-              Midwifery"
-}
-
 @ARTICLE{Fothergill2009-ks,
   title    = "Living Arrangements During Childrearing Years and Later Health of
               African American Mothers",
@@ -2179,51 +1631,6 @@
               intergenerational care transnational care"
 }
 
-@ARTICLE{Gangopadhyay2017-xw,
-  title   = "Aging Across Worlds: Examining Intergenerational Relationships
-             Among Older Adults in two Cities in Transition",
-  author  = "Gangopadhyay, J",
-  journal = "Ageing Int.",
-  volume  =  42,
-  number  =  4,
-  pages   = "504--521",
-  year    =  2017
-}
-
-@ARTICLE{Gans2013-jg,
-  title    = "Is There a {Trade-Off} Between Caring for Children and Caring for
-              Parents?",
-  author   = "Gans, D and Lowenstein, A and Katz, R and Zissimopoulos, J",
-  abstract = "Gans, Daphna Lowenstein, Ariela Katz, Ruth Zissimopoulos, Julie
-              1929-9850 Si",
-  journal  = "J. Comp. Fam. Stud.",
-  volume   =  44,
-  number   =  4,
-  pages    = "455--+",
-  year     =  2013
-}
-
-@ARTICLE{Gerstel1994-zm,
-  title   = "{CARING} {FOR} {KITH} {AND} {KIN} - {GENDER}, {EMPLOYMENT}, {AND}
-             {THE} {PRIVATIZATION} {OF} {CARE}",
-  author  = "Gerstel, N and Gallagher, S",
-  journal = "Soc. Probl.",
-  volume  =  41,
-  number  =  4,
-  pages   = "519--539",
-  year    =  1994
-}
-
-@ARTICLE{Gibson1999-zl,
-  title   = "African American grandmothers: New mothers again",
-  author  = "Gibson, P A",
-  journal = "Affilia-Journal of Women and Social Work",
-  volume  =  14,
-  number  =  3,
-  pages   = "329--343",
-  year    =  1999
-}
-
 @ARTICLE{Eheart2001-nf,
   title    = "Generations of hope",
   author   = "Eheart, B K and Hopping, D",
@@ -2255,43 +1662,6 @@
   volume  =  6,
   pages   = "109--158",
   year    =  1984
-}
-
-@ARTICLE{Gilligan2015-kp,
-  title    = "Do Positive Feelings Hurt? Disaggregating Positive and Negative
-              Components of Intergenerational Ambivalence",
-  author   = "Gilligan, M and Suitor, J J and Feld, S and Pillemer, K",
-  abstract = "Gilligan, Megan Suitor, J. Jill Feld, Scott Pillemer, Karl
-              1741-3737",
-  journal  = "J. Marriage Fam. Couns.",
-  volume   =  77,
-  number   =  1,
-  pages    = "261--276",
-  year     =  2015
-}
-
-@ARTICLE{Giraldo2015-ad,
-  title   = "Childcare and participation at work in {North-East} Italy: Why do
-             Italian and foreign mothers behave differently?",
-  author  = "Giraldo, A and Dalla-Zuanna, G and Rettore, E",
-  journal = "Stat. Methods Appt.",
-  volume  =  24,
-  number  =  2,
-  pages   = "339--358",
-  year    =  2015
-}
-
-@ARTICLE{Gladstone2013-mn,
-  title    = "Social Workers' Use of Power in Relationships with Grandparents
-              in Child Welfare Settings",
-  author   = "Gladstone, J W and Fitzgerald, K A J and Brown, R A",
-  abstract = "Gladstone, James W. Fitzgerald, Kerri-Ann J. Brown, Ralph A.
-              1468-263x",
-  journal  = "Br. J. Soc. Work",
-  volume   =  43,
-  number   =  6,
-  pages    = "1073--1091",
-  year     =  2013
 }
 
 @ARTICLE{Floyd2007-ie,
@@ -2627,136 +1997,6 @@
   year      =  2015
 }
 
-@ARTICLE{Garwick1998-pt,
-  title    = "Parents' perceptions of helpful vs unhelpful types of support in
-              managing the care of preadolescents with chronic conditions",
-  author   = "Garwick, A W and Patterson, J M and Bennett, F C and Blum, R W",
-  abstract = "OBJECTIVE: To identify parents' perceptions of helpful vs
-              unhelpful types of social support received in managing the care
-              of preadolescents with chronic conditions. DESIGN: Multimethod
-              cohort study with 1-year follow-up. SETTING: General community.
-              PARTICIPANTS: Volunteer, consecutive sample of parents of 124
-              preadolescents with a variety of chronic conditions. METHODS:
-              In-depth, in-home interviews conducted with parents. Quantitative
-              data from the Social Support Assessment questionnaire was used to
-              assess and compare sources and types of helpful support at
-              baseline and 1 year later. Content analytic methods were used to
-              categorize unsupportive behaviors described by parents during the
-              first interview. RESULTS: Both mothers and fathers reported that
-              other family members were the primary source of helpful emotional
-              and tangible support, while health care providers were the
-              primary source of helpful informational support. The amount of
-              perceived support from family members, community members, and
-              service providers stayed relatively stable over time, except that
-              fathers reported a significant increase in helpful emotional and
-              informational support from extended family members from baseline
-              to 1 year later. Also, 388 incidents of unsupportive behaviors
-              were identified; the majority of these behaviors were attributed
-              to health professionals and extended family members. CONCLUSION:
-              While patterns of perceived support remained relatively stable
-              over a 1-year period, reports of unsupportive behaviors suggest
-              gaps in service and problems that must be addressed to improve
-              the care that children with chronic conditions and their families
-              receive.",
-  journal  = "Arch. Pediatr. Adolesc. Med.",
-  volume   =  152,
-  number   =  7,
-  pages    = "665--671",
-  year     =  1998,
-  keywords = "Child Chronic Disease/*psychology/therapy Cohort Studies Family
-              Female Humans Interpersonal Relations Male Parents/*psychology
-              Professional-Family Relations *Social Support Surveys and
-              Questionnaires"
-}
-
-@ARTICLE{Ge2017-cx,
-  title    = "Grandparents raising grandchildren: a primer for pediatricians",
-  author   = "Ge, W and Adesman, A",
-  abstract = "PURPOSE OF REVIEW: To provide clinicians with a review of key
-              considerations relating to the physical and behavioral well-being
-              of children raised by their grandparents. RECENT FINDINGS: As the
-              number of children being raised by their grandparents in the
-              United States steadily increases, the needs of these families
-              require greater attention. These children and their custodial
-              grandparents face unique health, social, legal, and financial
-              challenges. Children being raised by their grandparents are at
-              higher risk for developmental and behavioral problems because of
-              prior or current adverse family environments. Moreover, there is
-              evidence that custodial grandparents may experience negative
-              health, social, and financial outcomes that may constrain their
-              ability to provide the best care for their grandchildren.
-              SUMMARY: Pediatricians should not only be aware of the medical
-              and developmental status of children who are being reared by
-              their grandparents, but also assess the needs, abilities, and
-              potential limitations of these custodial grandparents. In
-              addition to providing useful parenting advice and direct support
-              to custodial grandparents, pediatricians should refer these
-              families as needed to local grandparenting groups, social service
-              agencies, experienced legal counsel, and relevant national
-              organizations for support and guidance.",
-  journal  = "Curr. Opin. Pediatr.",
-  volume   =  29,
-  number   =  3,
-  pages    = "379--384",
-  year     =  2017,
-  keywords = "Child *Child Health *Child Rearing *Child Welfare *Foster Home
-              Care *Grandparents Humans *Pediatrics *Physician's Role Social
-              Support United States"
-}
-
-@ARTICLE{Ghuman1999-uk,
-  title    = "Demographic and clinical characteristics of emotionally disturbed
-              children being raised by grandparents",
-  author   = "Ghuman, H S and Weist, M D and Shafer, M E",
-  abstract = "Among 233 youths treated at a community mental health center, 51
-              were living with their grandparents. Youths who lived with
-              grandparents were more likely to be male, African American, and
-              younger. Frequent psychiatric diagnoses included oppositional
-              defiant disorder, depressive disorders, and anxiety disorders.
-              Common reasons for youths' placement with grandparents included
-              parents' absence, substance abuse, or incarceration; abuse by
-              parents; and death of parents. Caregivers were most often
-              maternal grandmothers, and more than one-third of the
-              grandmothers were age 62 or older. The findings highlight the
-              need to develop treatment interventions for youths who are living
-              with their grandparents and to create public policies to support
-              grandparent caregivers.",
-  journal  = "Psychiatr. Serv.",
-  volume   =  50,
-  number   =  11,
-  pages    = "1496--1498",
-  year     =  1999,
-  keywords = "Adolescent Affective Symptoms/*diagnosis/epidemiology/psychology
-              African Americans/psychology/statistics \& numerical data
-              *Caregivers/psychology Child *Child Rearing Child, Preschool
-              Community Mental Health Centers European Continental Ancestry
-              Group/psychology/statistics \& numerical data *Family/psychology
-              Female Humans Intergenerational Relations Male Maryland Risk
-              Factors Social Support"
-}
-
-@ARTICLE{Gibson2014-lp,
-  title   = "Grandmother {Caregiver-in-Chief} Continues the Tradition of
-             African American Families",
-  author  = "Gibson, P A",
-  journal = "Affilia-Journal of Women and Social Work",
-  volume  =  29,
-  number  =  3,
-  pages   = "298--309",
-  year    =  2014
-}
-
-@ARTICLE{Gibson2010-qo,
-  title   = "Let's Help Caregivers and Children in Informal Kinship Care: De
-             Facto Custodian Legislation",
-  author  = "Gibson, P A and Singh, S",
-  journal = "Child Welfare",
-  volume  =  89,
-  number  =  3,
-  pages   = "79--97",
-  year    =  2010
-}
-
 @ARTICLE{Dorsey1999-ek,
   title    = "Children whose mothers are {HIV} infected: Who resides in the
               home and is there a relationship to child psychosocial
@@ -2827,20 +2067,6 @@
   abstract = "Ebert, Alexandria R. Miron, Anca M. Hodel, Amy E. Rowley, Sarah
               K. Davis, Rachel Melotik, Emma 1552-5481",
   journal  = "J. Fam. Issues"
-}
-
-@ARTICLE{Ganong2019-zc,
-  title    = "Responsibility inferences and judgments about helping older
-              parents and stepparents",
-  author   = "Ganong, L and Russell, L and Sanner, C and Chapman, A and Ko, K
-              and Coleman, M",
-  abstract = "Ganong, Lawrence Russell, Luke Sanner, Caroline Chapman, Ashton
-              Ko, Kwangman Coleman, Marilyn 1460-3608",
-  journal  = "J. Soc. Pers. Relat.",
-  volume   =  36,
-  number   =  8,
-  pages    = "2268--2286",
-  year     =  2019
 }
 
 @ARTICLE{Fingerman2011-sb,
@@ -3061,37 +2287,6 @@
               *Intergenerational Relations Divorce Family Health Well Being"
 }
 
-@ARTICLE{Goodman2008-ux,
-  title    = "The health of grandmothers raising grandchildren: Does the
-              quality of family relationships matter?",
-  author   = "Goodman, Catherine C and Tan, P Philip and Ernandes, Patricia and
-              Silverstein, Merril",
-  abstract = "This study addresses the physical health of caregiving
-              grandmothers in a sample of 1015 grandmothers raising
-              grandchildren. The study focuses on closeness and conflict in key
-              relationships and demographic factors related to grandmothers'
-              self-reported health in skipped-generation and three-generation
-              families. It was found that conflict between grandmother and
-              grandchild was related to poor health in skipped-generation
-              families, whereas conflict between grandmother and parent was
-              related to poor health in three-generation families. Although
-              closeness between grandmother and grandchild was related to
-              better health in skipped generation families, conflict was more
-              salient, overriding this effect. Results suggest that conflict is
-              particularly negative on a daily basis, when contention occurs
-              within the household. This study confirms the importance of
-              psychosocial factors related to self-assessed health and implies
-              that interventions might ease conflict, promote problem solving,
-              and assist distressed family members. (PsycINFO Database Record
-              (c) 2016 APA, all rights reserved)",
-  journal  = "Fam. Syst. Health",
-  volume   =  26,
-  number   =  4,
-  pages    = "417--430",
-  year     =  2008,
-  keywords = "*Conflict *Grandparents Health"
-}
-
 @ARTICLE{Edwards2009-ye,
   title    = "A conceptual pathways model to promote positive youth development
               in children raised by their grandparents",
@@ -3189,69 +2384,4 @@
   year     =  2013,
   keywords = "*Acculturation *Attachment Behavior *Behavior Problems *Cross
               Cultural Differences *School Environment High Schools Parents"
-}
-
-@ARTICLE{Giles2008-qh,
-  title    = "Perceptions of intergenerational communication by young,
-              middle-aged, and older Canadians",
-  author   = "Giles, Howard and Ryan, Ellen Bouchard and Anas, Ann P",
-  abstract = "Young, middle-aged, and older Canadians (N = 240) evaluated their
-              past communicative experiences with older and younger adults who
-              were not family as well as undertaking an age-stereotyping task.
-              The latter showed that ratings of attributed benevolence
-              increased with target age but personal vitality declined; young
-              raters attributed older people with the least personal vitality.
-              Communication with older targets was rated more negatively in
-              terms of their being more nonaccommodating and avoided. Although
-              these (and other) differences were more evident for young
-              respondents, older adults, too, indicated problems communicating
-              with same-aged peers. Middle-aged respondents rated communication
-              experiences similarly to their older counterparts. The study also
-              examined whether the communication variables predicted older
-              people's psychological functioning. In contrast to the
-              intergenerational focus of the communication predicament model of
-              aging, perceived accommodation from other older adults predicted
-              life satisfaction and age group esteem. (PsycINFO Database Record
-              (c) 2016 APA, all rights reserved)",
-  journal  = "Can. J. Behav. Sci.",
-  volume   =  40,
-  number   =  1,
-  pages    = "21--30",
-  year     =  2008,
-  keywords = "*Attribution *Intergenerational Relations *Social Perception
-              *Stereotyped Attitudes *Communication Barriers Age Differences"
-}
-
-@ARTICLE{Gee2003-xf,
-  title    = "Adolescent mothers' relationship with their children's biological
-              fathers: Social support, social strain and relationship
-              continuity",
-  author   = "Gee, Christina B and Rhodes, Jean E",
-  abstract = "Two-hundred and eighteen low-income, minority, adolescent mothers
-              were interviewed during the perinatal period and 3 years later
-              about their social networks, including their relationships with
-              their children's fathers. Few adolescents were involved with
-              fathers at both time points. Relationships with fathers were, in
-              general, less supportive and less problematic over time.
-              Moreover, although father support was not associated with
-              adolescent mothers' psychological adjustment, father absence and
-              father strain had negative associations with psychological
-              adjustment. Maternal grandmother support buffered the negative
-              effects of strain in the adolescents' relationships with
-              biological fathers. Perceptions of less social support from
-              maternal grandmothers and more social support from fathers during
-              the perinatal period as well as less social support from a new
-              male partner at 3 years postpartum predicted relationship
-              continuity between adolescent mothers and fathers at 3 years
-              postpartum. Implications for intervention and policy are
-              discussed. (PsycINFO Database Record (c) 2016 APA, all rights
-              reserved)",
-  journal  = "J. Fam. Psychol.",
-  volume   =  17,
-  number   =  3,
-  pages    = "370--383",
-  year     =  2003,
-  keywords = "*Adolescent Mothers *Emotional Adjustment *Male Female Relations
-              *Social Stress *Social Support Biological Family Fathers
-              Grandparents Significant Others"
 }
