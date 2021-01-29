@@ -1,3 +1,11 @@
+@MISC{noauthor_undated-wm,
+  title = "{1004266.PDF}"
+}
+
+@MISC{noauthor_undated-br,
+  title = "x"
+}
+
 @MISC{noauthor_undated-md,
   title = "{V5\_I3\_Intergenerational\_01.pdf}"
 }
@@ -132,6 +140,98 @@
 
 @MISC{noauthor_undated-pd,
   title = "An Introduction to Psychological Assessment and Psychometrics.pdf"
+}
+
+@ARTICLE{noauthor_1998-mt,
+  title    = "Provide, provide: the economics of aging",
+  abstract = "Most older persons face two potentially serious economic
+              problems: (a) declining earning power and (b) declining health
+              that can be partly offset by increased utilization of health
+              care. The decline in earning power is largely attributable to
+              physiological changes and to obsolescence of skills and
+              knowledge. These adverse effects are exacerbated by public and
+              private policies that reduce the incentives of older persons to
+              continue work and increase the cost to employers of employing
+              older workers. The problems of earnings replacement and health
+              care payment are usually discussed separately, but there are
+              several reasons why they should be considered together. First,
+              there are often tradeoffs between the two. Money is money, and
+              for most people there is never enough to go around. This is
+              self-evident where private funds are concerned. Low-income
+              elderly, for instance, frequently must choose between expensive
+              prescription drugs and an adequate diet. For middle-income
+              elderly, the choice may be between saving on medigap insurance or
+              forgoing an airplane trip to a grandchild's graduation. Difficult
+              choices are also inherent in the allocation of public funds. The
+              same tax receipts that could be used to maintain or increase
+              retirement benefits could be used to fund additional care, and
+              vice versa. In discussing these tradeoffs, some analysts assert
+              that people will gladly give up other goods and services for
+              medical care that cures illness, relieves pain, or restores
+              function. Others believe that some people would forgo some health
+              insurance in order to maintain access to other goods and
+              services. A second reason for looking at the two problems
+              together is that they pose similar questions for public policy.
+              How much should each generation provide for its own needs in old
+              age, and how much should be provided by the generations that
+              follow? How much provision should be voluntary, how much
+              compulsory? How much intra-generational redistribution is
+              appropriate after age 65? How well can private markets serve the
+              elderly's desire for annuities and health insurance, and when are
+              public programs more efficient? Finally, the problem of health
+              care payment is approaching that of earning replacement in
+              economic importance and, by 2020, will far exceed it. Declining
+              health after age 65 results in substantial increase in use of
+              prescription drugs, hospital admissions, repair or replacement of
+              parts of the body, rehabilitation and physical therapy, and
+              assistance with activities of daily living. New technologies
+              offer great promise for offsetting the health problems of aging,
+              but often at considerable expense. Overall, per capita
+              expenditures for health care after age 65 are between three and
+              four times as great as for those under 65. This presentation will
+              focus primarily on the (thus far) inexorable increase in
+              consumption of health care by older Americans. If this increase
+              continues and if the government's share of the total remains
+              unchanged, the tax burden on younger cohorts could become
+              intolerable. Concomitantly, if the private share remains
+              unchanged, the ability of the elderly to obtain other goods and
+              services would be sharply diminished. Although the emphasis of
+              the session will be on aggregate and average results, levels and
+              trends in income inequality among the elderly will also be
+              examined and compared with inequality at younger ages. The
+              session will conclude with a discussion of changes that might
+              avert the economic and social crises foreshadowed in the data.",
+  journal  = "Issue Brief Natl. Health Policy Forum",
+  number   =  721,
+  pages    = "1--3",
+  year     =  1998,
+  keywords = "Aged Forecasting Health Care Costs Health Services for the
+              Aged/*economics/trends Humans Insurance, Health United States"
+}
+
+@ARTICLE{noauthor_2015-cq,
+  title    = "Rights for grandparents",
+  journal  = "J. Fam. Health Care",
+  volume   =  25,
+  number   =  6,
+  pages    = "6",
+  year     =  2015,
+  keywords = "*Child Care Child, Preschool Employment/*legislation \&
+              jurisprudence England Family Leave/*legislation \& jurisprudence
+              *Grandparents Humans"
+}
+
+@ARTICLE{noauthor_2014-ad,
+  title    = "Caring for grandkids could improve your brainpower",
+  abstract = "News United States Harv Womens Health Watch. 2014 Jul;21(11):8.",
+  journal  = "Harv. Womens. Health Watch",
+  volume   =  21,
+  number   =  11,
+  pages    = "8",
+  year     =  2014,
+  keywords = "Aged, 80 and over Brain/*physiology Caregivers/*psychology Child
+              Child Care/*psychology *Health Behavior Humans *Intergenerational
+              Relations Mental Health"
 }
 
 @MISC{noauthor_undated-ik,
@@ -871,6 +971,21 @@
   year     =  2015,
   keywords = "student counselling; academic; effectiveness; clinically
               significant change"
+}
+
+@ARTICLE{Alcock2011-bi,
+  title    = "Intergenerational Practice in the Community: A Focused
+              Ethnographic Evaluation",
+  author   = "Alcock, C L and Camic, P M and Barker, C and Haridi, C and Raven,
+              R",
+  abstract = "Alcock, Charlotte L. Camic, Paul M. Barker, Chris Haridi,
+              Catherine Raven, Rosie Barker, Chris/C-2193-2008 Barker,
+              Chris/0000-0002-9268-9356; Camic, Paul/0000-0002-4444-6544",
+  journal  = "J. Community Appl. Soc. Psychol.",
+  volume   =  21,
+  number   =  5,
+  pages    = "419--432",
+  year     =  2011
 }
 
 @ARTICLE{Faija2017-dv,
@@ -1624,6 +1739,27 @@
   language  = "en"
 }
 
+@ARTICLE{Aiyagari2002-mf,
+  title    = "Efficient investment in children",
+  author   = "Aiyagari, S R and Greenwood, J and Seshadri, A",
+  abstract = "Many would say that children are society's most precious
+              resource. So, how should we invest in them? To gain insight into
+              this question, a dynamic general equilibrium model is developed
+              where children differ by ability. Parents invest time and money
+              in their offspring, depending on their altruism. This allows
+              their children to grow up as more productive adults. First, the
+              efficient allocation is characterized, Next, this is compared
+              with the outcome that arises when Financial markets are
+              incomplete. The situation where child-care markets are also
+              lacking is then examined. Additionally, the consequences of
+              impure altruism are analyzed. (C) 2001 Elsevier Science.",
+  journal  = "J. Econ. Theory",
+  volume   =  102,
+  number   =  2,
+  pages    = "290--321",
+  year     =  2002
+}
+
 @INCOLLECTION{Hayes2005-re,
   title     = "Acceptance and Commitment Therapy",
   booktitle = "Encyclopedia of Cognitive Behavior Therapy",
@@ -1846,6 +1982,16 @@
               Services Family Therapy/*methods Female Goals Humans Infant Male
               Mental Disorders/genetics/therapy Patient Care Team *Rural Health
               Social Adjustment"
+}
+
+@ARTICLE{Bartram1996-vb,
+  title   = "Clarifying subsystem boundaries in grandfamilies",
+  author  = "Bartram, M H",
+  journal = "Contemp. Fam. Ther.",
+  volume  =  18,
+  number  =  2,
+  pages   = "267--277",
+  year    =  1996
 }
 
 @ARTICLE{McGuirk1992-ue,
@@ -2195,6 +2341,31 @@
   year     =  2013
 }
 
+@ARTICLE{Albuquerque2014-jn,
+  title   = "Intergenerational private transfers: Portugal in the European
+             context",
+  author  = "Albuquerque, P C",
+  journal = "Eur. J. Ageing",
+  volume  =  11,
+  number  =  4,
+  pages   = "301--312",
+  year    =  2014
+}
+
+@ARTICLE{Arpino2018-ln,
+  title    = "Grandparenting, education and subjective well-being of older
+              Europeans",
+  author   = "Arpino, B and Bordone, V and Balbo, N",
+  abstract = "Arpino, Bruno Bordone, Valeria Balbo, Nicoletta arpino,
+              bruno/G-2775-2013 arpino, bruno/0000-0002-8374-3066; Bordone,
+              Valeria/0000-0002-2987-3978 1613-9380",
+  journal  = "Eur. J. Ageing",
+  volume   =  15,
+  number   =  3,
+  pages    = "251--263",
+  year     =  2018
+}
+
 @ARTICLE{Glaser2018-fn,
   title    = "Trends in the prevalence of grandparents living with
               grandchild(ren) in selected European countries and the United
@@ -2209,6 +2380,20 @@
   volume   =  15,
   number   =  3,
   pages    = "237--250",
+  year     =  2018
+}
+
+@ARTICLE{Albertini2018-cy,
+  title    = "Grandparenting after parental divorce: The association between
+              non-resident parent-child meetings and grandparenting in Italy",
+  author   = "Albertini, M and Tosi, M",
+  abstract = "Albertini, Marco Tosi, Marco ALBERTINI,
+              MARCO/0000-0003-0344-3002; Tosi, Marco/0000-0002-1423-1585
+              1613-9380",
+  journal  = "Eur. J. Ageing",
+  volume   =  15,
+  number   =  3,
+  pages    = "277--286",
   year     =  2018
 }
 
@@ -2235,6 +2420,21 @@
   number   =  1,
   pages    = "81--99",
   year     =  2005
+}
+
+@ARTICLE{Alessie2014-ob,
+  title    = "Is It True Love? Altruism Versus Exchange in Time and Money
+              Transfers",
+  author   = "Alessie, R and Angelini, V and Pasini, G",
+  abstract = "Alessie, Rob Angelini, Viola Pasini, Giacomo Pasini,
+              Giacomo/O-1575-2019; Pasini, Giacomo/E-7032-2014 Pasini,
+              Giacomo/0000-0002-2052-3453; Pasini, Giacomo/0000-0002-2052-3453
+              1572-9982",
+  journal  = "Economist-Netherlands",
+  volume   =  162,
+  number   =  2,
+  pages    = "193--213",
+  year     =  2014
 }
 
 @ARTICLE{Ciccarelli2018-cj,
@@ -2316,6 +2516,32 @@
   year    =  2008
 }
 
+@ARTICLE{Aassve2012-bc,
+  title    = "Grandparenting and Childbearing in the Extended Family",
+  author   = "Aassve, A and Meroni, E and Pronzato, C",
+  abstract = "Aassve, Arnstein Meroni, Elena Pronzato, Chiara Meroni, Elena
+              Claudia/0000-0003-4904-9238 1572-9885",
+  journal  = "European Journal of Population-Revue Europeenne De Demographie",
+  volume   =  28,
+  number   =  4,
+  pages    = "499--518",
+  year     =  2012
+}
+
+@ARTICLE{Arpino2014-eb,
+  title    = "The Effect of Grandparental Support on Mothers' Labour Market
+              Participation: An Instrumental Variable Approach",
+  author   = "Arpino, B and Pronzato, C and Tavares, L",
+  abstract = "Arpino, Bruno Pronzato, Chiara D. Tavares, Lara P. arpino,
+              bruno/G-2775-2013 arpino, bruno/0000-0002-8374-3066; Tavares,
+              Lara/0000-0003-3190-0194 1572-9885",
+  journal  = "Eur. J. Popul.",
+  volume   =  30,
+  number   =  4,
+  pages    = "369--390",
+  year     =  2014
+}
+
 @ARTICLE{Berman2015-vo,
   title    = "Parental Loss and Residential Instability: The Impact on Young
               Women from {Low-Income} Households in Detroit",
@@ -2389,6 +2615,20 @@
   year    =  2012
 }
 
+@ARTICLE{Arpino2017-fv,
+  title    = "Regular provision of grandchild care and participation in social
+              activities",
+  author   = "Arpino, B and Bordone, V",
+  abstract = "Arpino, Bruno Bordone, Valeria arpino, bruno/G-2775-2013 arpino,
+              bruno/0000-0002-8374-3066; Bordone, Valeria/0000-0002-2987-3978
+              1573-7152",
+  journal  = "Rev. Econ. Househ.",
+  volume   =  15,
+  number   =  1,
+  pages    = "135--174",
+  year     =  2017
+}
+
 @ARTICLE{Del_Boca2018-sh,
   title    = "The role of grandparenting in early childcare and child outcomes",
   author   = "Del Boca, D and Piazzalunga, D and Pronzato, C",
@@ -2399,6 +2639,17 @@
   number   =  2,
   pages    = "477--512",
   year     =  2018
+}
+
+@ARTICLE{Ahn2019-hq,
+  title   = "Grandparent caregiving and cognitive functioning among older
+             people: evidence from Korea",
+  author  = "Ahn, T and Choi, K D",
+  journal = "Rev. Econ. Househ.",
+  volume  =  17,
+  number  =  2,
+  pages   = "553--586",
+  year    =  2019
 }
 
 @ARTICLE{Ciani2018-mv,
@@ -2460,6 +2711,19 @@
   month     =  dec,
   year      =  2014,
   language  = "en"
+}
+
+@ARTICLE{Allen2015-mk,
+  title    = "Feminist Theory and Research on Family Relationships: Pluralism
+              and Complexity",
+  author   = "Allen, K R and Jaramillo-Sierra, A L",
+  abstract = "Allen, Katherine R. Jaramillo-Sierra, Ana L. Allen,
+              Katherine/0000-0001-9920-0333 1573-2762 Si",
+  journal  = "Sex Roles",
+  volume   =  73,
+  number   = "3-4",
+  pages    = "93--99",
+  year     =  2015
 }
 
 @ARTICLE{Malone2012-mn,
@@ -4397,6 +4661,50 @@
   year      =  2015
 }
 
+@ARTICLE{Bailey2016-fw,
+  title    = "Associations Between Parental and Grandparental Marijuana Use and
+              Child Substance Use Norms in a Prospective, {Three-Generation}
+              Study",
+  author   = "Bailey, J A and Hill, K G and Guttmannova, K and Epstein, M and
+              Abbott, R D and Steeger, C M and Skinner, M L",
+  abstract = "PURPOSE: Using prospective longitudinal data from three
+              generations, this study seeks to test whether and how parent and
+              grandparent marijuana use (current and prior) predicts an
+              increased likelihood of child cigarette, alcohol, and marijuana
+              use. METHODS: Using multilevel modeling of prospective data
+              spanning three generations (n = 306 families, children ages
+              6-22), this study tested associations between grandparent (G1)
+              and parent (G2) marijuana use and child (G3) past-year cigarette,
+              alcohol, and marijuana use. Analyses tested whether G3
+              substance-related norms mediated these associations. Current G1
+              and G2 marijuana use was examined, as was G2 high school and
+              early adult use and G1 marijuana use when G2 parents were in
+              early adolescence. Controls included G2 age at G3 birth, G2
+              education and depression, and G3 gender. RESULTS: G2 current
+              marijuana use predicted a higher likelihood of G3 alcohol and
+              marijuana use but was not related to the probability of G3
+              cigarette use. G3's perceptions of their parents' norms and G2
+              current marijuana use both contributed independently to the
+              likelihood of G3 alcohol and marijuana use when included in the
+              same model. G3 children's own norms and their perceptions of
+              friends' norms mediated the link between G2 current marijuana use
+              and G3 alcohol and marijuana use. CONCLUSIONS: Results are
+              discussed in light of the growing trend toward marijuana
+              legalization. To the extent that parent marijuana use increases
+              under legalization, we can expect more youth to use alcohol and
+              marijuana and to have norms that favor substance use.",
+  journal  = "J. Adolesc. Health",
+  volume   =  59,
+  number   =  3,
+  pages    = "262--268",
+  year     =  2016,
+  keywords = "Adolescent Adult Alcohol Drinking/*epidemiology Binge
+              Drinking/epidemiology Child Cigarette Smoking/*epidemiology
+              Female *Grandparents Humans Longitudinal Studies Male Marijuana
+              Use/*epidemiology *Parents Prospective Studies Self Report Young
+              Adult *Alcohol *Cigarettes *Grandparent *Marijuana *Norms *Parent"
+}
+
 @ARTICLE{Harris2015-ar,
   title   = "Changes in Intuitive Eating and Orthorexia Scores among Female
              Graduate Students in Dietetics",
@@ -4573,6 +4881,18 @@
   journal  = "J. Econ. Psychol.",
   volume   =  49,
   pages    = "187--204",
+  year     =  2015
+}
+
+@ARTICLE{Barczyk2015-wr,
+  title    = "Perceptions of injury prevention and familial adjustment among
+              mothers of teen parents",
+  author   = "Barczyk, A N and Duzinski, S V and Brown, J M and Lawson, K A",
+  abstract = "Barczyk, Amanda N. Duzinski, Sarah V. Brown, Juliette M. Lawson,
+              Karla A. 1879-1247",
+  journal  = "J. Safety Res.",
+  volume   =  52,
+  pages    = "15--21",
   year     =  2015
 }
 
@@ -4866,6 +5186,18 @@
   language = "en"
 }
 
+@ARTICLE{Balcazar2015-ns,
+  title    = "The Hispanic health paradox across generations: the relationship
+              of child generational status and citizenship with health outcomes",
+  author   = "Balcazar, A J and Grineski, S E and Collins, T W",
+  abstract = "Balcazar, A. J. Grineski, S. E. Collins, T. W. 1476-5616",
+  journal  = "Public Health",
+  volume   =  129,
+  number   =  6,
+  pages    = "691--697",
+  year     =  2015
+}
+
 @ARTICLE{Mohamed2012-jj,
   title    = "The Relationship Between Metacognition and Self-regulation in
               Young Children",
@@ -4895,6 +5227,51 @@
   month    =  dec,
   year     =  2012,
   keywords = "Metacognition; Self-regulation; Theory of mind; Preschool"
+}
+
+@ARTICLE{Aubel2004-fd,
+  title    = "Senegalese grandmothers promote improved maternal and child
+              nutrition practices: the guardians of tradition are not averse to
+              change",
+  author   = "Aubel, J and Toure, I and Diagne, M",
+  abstract = "The vast majority of community nutrition/health programs in
+              developing countries focus on women of reproductive age (WRA) and
+              a few explicitly involve senior women, or grandmothers. In
+              Senegal, as in many other places, older, experienced women play
+              an influential role in household maternal and child health (MCH)
+              matters. Formative research in Serer villages revealed their
+              importance and this was taken into account in an action research
+              nutrition education (NE) project in which grandmothers were
+              encouraged to promote improved nutritional practices related to
+              pregnancy (e.g. decreased work;and improved diet) and infant
+              feeding (e.g. breastfeeding and complementary feeding). A
+              participatory communication/empowerment education approach was
+              used involving songs, stories and group discussion. Quantitative
+              and qualitative data were collected to both document and evaluate
+              the intervention. Triangulation of the evaluation data suggests
+              that 12 months after the intervention was initiated there were
+              significant improvements in grandmothers' nutritional knowledge,
+              in their advice to WRA, and in the nutrition-related practices of
+              these younger women associated both with pregnancy and infant
+              feeding. For example, in the pre-test only 20\% of grandmothers
+              stated that they advise pregnant women to decrease their workload
+              whereas in the post-test 87\% reported giving this advice. At the
+              same time, 91\% of WRA in villages with the grandmother strategy
+              reported having decreased their workload during their last
+              pregnancy whereas in villages with NE activities for WRA but not
+              with grandmothers, only 34\% of younger women reported having
+              done so. These findings provide evidence of grandmothers' ability
+              to learn, to integrate new information into their practices and
+              to positively influence the practices of WRA. These results
+              support the need for future MCH programs, in different cultural
+              contexts, to involve grandmothers and in so doing to build on
+              their intrinsic commitment to family well-being. (C) 2003
+              Elsevier Ltd. All rights reserved.",
+  journal  = "Soc. Sci. Med.",
+  volume   =  59,
+  number   =  5,
+  pages    = "945--959",
+  year     =  2004
 }
 
 @ARTICLE{Eli2016-xn,
@@ -5557,6 +5934,21 @@
   year    =  2017
 }
 
+@ARTICLE{Bai2018-ln,
+  title    = "Self-image and intergenerational relationships as correlates of
+              life satisfaction in Chinese older adults: will gender make a
+              difference?",
+  author   = "Bai, X and Guo, Y and Fu, Y Y",
+  abstract = "Bai, Xue Guo, Yu Fu, Yuan Yuan Rubio-Valera, Maria/H-4840-2012;
+              BAI, Xue/A-4279-2017 Rubio-Valera, Maria/0000-0003-2856-1697;
+              BAI, Xue/0000-0002-0502-7291 1469-1779",
+  journal  = "Ageing \& Society",
+  volume   =  38,
+  number   =  7,
+  pages    = "1502--1519",
+  year     =  2018
+}
+
 @ARTICLE{Chisholm2019-zl,
   title   = "The narrative self in rural dementia: a case study from eastern
              Nova Scotia",
@@ -5578,6 +5970,17 @@
   volume   =  18,
   pages    = "537--562",
   year     =  1998
+}
+
+@ARTICLE{Aboderin2015-zi,
+  title   = "Families, Intergenerational Bonds, and Aging in {Sub-Saharan}
+             Africa",
+  author  = "Aboderin, I and Hoffman, J",
+  journal = "Canadian Journal on Aging-Revue Canadienne Du Vieillissement",
+  volume  =  34,
+  number  =  3,
+  pages   = "282--289",
+  year    =  2015
 }
 
 @ARTICLE{Dickstein2004-kj,
@@ -5722,6 +6125,23 @@
   number   =  2,
   pages    = "453--463",
   year     =  2008
+}
+
+@INCOLLECTION{Adler2017-hx,
+  title     = "When the path of least resistance is doing everything",
+  booktitle = "Palliat Support Care",
+  author    = "Adler, E C",
+  abstract  = "Adler, Elizabeth C Personal Narrative Palliative \& supportive
+               care S1478951516000523 [pii] Palliat Support Care. 2017
+               Apr;15(2):270-271. doi: 10.1017/S1478951516000523. Epub 2016 Jul
+               13.",
+  volume    =  15,
+  pages     = "270--271",
+  year      =  2017,
+  address   = "England",
+  keywords  = "Grandparents/*psychology Heart Valve
+               Diseases/complications/*psychology Humans Palliative Care
+               Patient Care/methods/*psychology"
 }
 
 @ARTICLE{Demetrashvili2019-qn,
@@ -6029,6 +6449,33 @@
   year     =  2008,
   keywords = "*Attribution *Intergenerational Relations *Social Perception
               *Stereotyped Attitudes *Communication Barriers Age Differences"
+}
+
+@ARTICLE{Baydar1991-ib,
+  title    = "Effects of maternal employment and child-care arrangements on
+              preschoolers' cognitive and behavioral outcomes: Evidence from
+              the Children of the National Longitudinal Survey of Youth",
+  author   = "Baydar, Nazli and Brooks-Gunn, Jeanne",
+  abstract = "The intersection of maternal employment and child care in the 1st
+              3 yrs of life was considered. The cognitive and behavioral
+              effects of continuity, intensity, and timing of maternal
+              employment in the 1st yr and of the different types of child-care
+              arrangements were investigated. Employment in the 1st yr had
+              detrimental effects on the cognitive and behavioral development
+              of all children regardless of gender or poverty status.
+              Infancy-care arrangements affected cognitive and behavioral
+              outcomes. Grandmother care was the most beneficial arrangement
+              for cognitive development of children in poverty. Regarding
+              behavioral development, mother care was most beneficial for boys,
+              and baby-sitter care was most beneficial for girls. (PsycINFO
+              Database Record (c) 2016 APA, all rights reserved)",
+  journal  = "Dev. Psychol.",
+  volume   =  27,
+  number   =  6,
+  pages    = "932--945",
+  year     =  1991,
+  keywords = "*Child Care *Childhood Development *Cognitive Development
+              *Employment Status Mothers"
 }
 
 @ARTICLE{Belsky2001-xs,
@@ -6483,6 +6930,43 @@
   keywords = "*Conflict *Grandparents Health"
 }
 
+@ARTICLE{Attar-Schwartz2009-ve,
+  title    = "Grandparenting and adolescent adjustment in two-parent
+              biological, lone-parent, and step-families",
+  author   = "Attar-Schwartz, S and Tan, J P and Buchanan, A and Flouri, E and
+              Griggs, J",
+  abstract = "There is limited research on the links between grandparenting and
+              adolescents' well-being, especially from the perspective of the
+              adolescents. The study examined whether grandparent involvement
+              varied in two-parent biological, lone-parent, and step-families
+              and whether this had a different contribution to the emotional
+              and behavioral adjustment of adolescents across different family
+              structures. The study is based on a sample of 1,515 secondary
+              school students (ages 11-16 years) from England and Wales who
+              completed a structured questionnaire. Findings of hierarchical
+              regression analyses showed that among the whole sample, greater
+              grandparent involvement was associated with fewer emotional
+              problems (p < .01) and with more prosocial behavior (p < .001).
+              In addition, while there were no differences in the level of
+              grandparent involvement across the different family structures,
+              grandparent involvement was more strongly associated with reduced
+              adjustment difficulties among adolescents from lone-parent and
+              step-families than those from two-parent biological families. A
+              possible implication is that the positive role of grandparent
+              involvement in lone-parent and step- families should be more
+              emphasized in family psychology. (PsycINFO Database Record (c)
+              2009 APA, all rights reserved).",
+  journal  = "J. Fam. Psychol.",
+  volume   =  23,
+  number   =  1,
+  pages    = "67--75",
+  year     =  2009,
+  keywords = "Adolescent Child Father-Child Relations Female Humans
+              *Intergenerational Relations Male Mother-Child Relations
+              *Parent-Child Relations *Parents *Single Parent *Social
+              Adjustment Surveys and Questionnaires"
+}
+
 @ARTICLE{Edwards2009-ye,
   title    = "A conceptual pathways model to promote positive youth development
               in children raised by their grandparents",
@@ -6599,6 +7083,40 @@
   month    =  aug,
   year     =  2010,
   language = "en"
+}
+
+@ARTICLE{Barnett2010-wj,
+  title    = "Grandmother involvement as a protective factor for early
+              childhood social adjustment",
+  author   = "Barnett, Melissa A and Scaramella, Laura V and Neppl, Tricia K
+              and Ontai, Lenna L and Conger, Rand D",
+  abstract = "Despite high rates of grandmother involvement with young
+              grandchildren, very little research has examined the associations
+              between nonresidential grandmother involvement and grandchild
+              social adjustment. The present study involved 127 families
+              enrolled in the Family Transitions Project to consider the degree
+              to which mother-reported maternal grandmother involvement
+              buffered 3- and 4-year-old grandchildren from economic,
+              parenting, and child temperamental risks for reduced social
+              competence and elevated externalizing behaviors. Findings
+              indicate that higher levels of mother-reported grandmother
+              involvement reduced the negative association between observed
+              grandchild negative emotional reactivity and social competence.
+              Furthermore, higher levels of mother-reported grandmother
+              involvement protected grandchildren from the positive association
+              between observed mother harsh parenting and grandchild
+              externalizing behaviors. These findings underscore the relevance
+              of moving beyond the nuclear family to understand factors linked
+              to social adjustment during early childhood. (PsycINFO Database
+              Record (c) 2016 APA, all rights reserved)",
+  journal  = "J. Fam. Psychol.",
+  volume   =  24,
+  number   =  5,
+  pages    = "635--645",
+  year     =  2010,
+  keywords = "*Early Childhood Development *Externalization *Intergenerational
+              Relations *Protective Factors *Social Adjustment Grandchildren
+              Grandparents Parental Involvement Social Skills"
 }
 
 @ARTICLE{Belsky2012-bb,
@@ -7081,6 +7599,22 @@
   language = "en"
 }
 
+@ARTICLE{Abraham2017-vs,
+  title    = "The Human Coparental Bond Implicates Distinct Corticostriatal
+              Pathways: Longitudinal Impact on Family Formation and Child
+              {Well-Being}",
+  author   = "Abraham, E and Gilam, G and Kanat-Maymon, Y and Jacob, Y and
+              Zagoory-Sharon, O and Hendler, T and Feldman, R",
+  abstract = "Abraham, Eyal Gilam, Gadi Kanat-Maymon, Yaniv Jacob, Yael
+              Zagoory-Sharon, Orna Hendler, Talma Feldman, Ruth Feldman,
+              Ruth/0000-0001-5048-1381 1740-634x",
+  journal  = "Neuropsychopharmacology",
+  volume   =  42,
+  number   =  12,
+  pages    = "2301--2313",
+  year     =  2017
+}
+
 @ARTICLE{Halford2010-im,
   title    = "Pharmacological management of appetite expression in obesity",
   author   = "Halford, Jason C G and Boyland, Emma J and Blundell, John E and
@@ -7490,6 +8024,19 @@
   number   =  3,
   pages    = "171--186",
   year     =  2019
+}
+
+@ARTICLE{AlHamad1997-to,
+  title    = "Migration of elderly people to join existing households: Some
+              evidence from the 1991 Household Sample of Anonymised Records",
+  author   = "AlHamad, A and Flowerdew, R and Hayes, L",
+  abstract = "AlHamad, A Flowerdew, R Hayes, L International Conference on
+              Population Geography Sep 17, 1995 Dundee, scotland",
+  journal  = "Environment and Planning A",
+  volume   =  29,
+  number   =  7,
+  pages    = "1243--1255",
+  year     =  1997
 }
 
 @ARTICLE{Cortes_Barragan2014-pq,
@@ -8002,6 +8549,18 @@
   year     =  2015
 }
 
+@ARTICLE{Arentshorst2019-ae,
+  title    = "Intergenerational Housing: The Case of Humanitas Netherlands",
+  author   = "Arentshorst, M E and Kloet, R R and Peine, A",
+  abstract = "Arentshorst, Marlous Elisabeth Kloet, Roy Reinier Peine,
+              Alexander 1540-353x",
+  journal  = "J. Hous. Elderly",
+  volume   =  33,
+  number   =  3,
+  pages    = "244--256",
+  year     =  2019
+}
+
 @ARTICLE{Gaggioli2014-yn,
   title    = "Intergenerational Group Reminiscence: A Potentially Effective
               Intervention to Enhance Elderly Psychosocial Wellbeing and to
@@ -8101,6 +8660,24 @@
   year     =  2016,
   keywords = "Eating disorders; education and BMI; gender; orthorexia nervosa",
   language = "en"
+}
+
+@ARTICLE{Abramson2015-ov,
+  title   = "Older Adults: The ``Panini Sandwich'' Generation",
+  author  = "Abramson, T A",
+  journal = "Clin. Gerontol.",
+  volume  =  38,
+  number  =  4,
+  pages   = "251--267",
+  year    =  2015
+}
+
+@ARTICLE{Antle_undated-sh,
+  title    = "The mediating role of family dynamics in the relationship between
+              paternal incarceration and child behavior problems",
+  author   = "Antle, K and Gibson, C L and Krohn, M D",
+  abstract = "Antle, Kelsey Gibson, Chris L. Krohn, Marvin D. 2158-9119",
+  journal  = "Journal of Crime \& Justice"
 }
 
 @ARTICLE{Drass2015-ul,
@@ -8831,6 +9408,17 @@
   year    =  2018
 }
 
+@ARTICLE{Askola2016-av,
+  title   = "{WHO} {WILL} {CARE} {FOR} {GRANDMA}? {OLDER} {WOMEN}, {PARENT}
+             {VISAS}, {AND} {AUSTRALIA'S} {MIGRATION} {PROGRAM}",
+  author  = "Askola, H",
+  journal = "Australian Feminist Law Journal",
+  volume  =  42,
+  number  =  2,
+  pages   = "297--319",
+  year    =  2016
+}
+
 @ARTICLE{Casale2014-lh,
   title    = "The relationship between social support and anxiety among
               caregivers of children in {HIV-endemic} South Africa",
@@ -9058,6 +9646,17 @@
   year    =  2018
 }
 
+@ARTICLE{Bates2018-zi,
+  title   = "Grillin' with My Grandchild (c): multigenerational programming for
+             grandfathers and grandchildren",
+  author  = "Bates, J S",
+  journal = "J. Intergener. Relatsh.",
+  volume  =  16,
+  number  =  3,
+  pages   = "339--345",
+  year    =  2018
+}
+
 @ARTICLE{Patterson2010-km,
   title     = "Does Motivational Interviewing Stages of Change Increase
                Treatment Retention among Persons Who Are Alcohol and Other Drug
@@ -9201,6 +9800,16 @@
   pages    = "499--508",
   year     =  2013,
   language = "en"
+}
+
+@ARTICLE{Bath2017-wa,
+  title   = "Ethical Practice in the Care of an Elder: a Daughter's Blog",
+  author  = "Bath, C",
+  journal = "Ethics \& Social Welfare",
+  volume  =  11,
+  number  =  4,
+  pages   = "307--319",
+  year    =  2017
 }
 
 @ARTICLE{Danielsbacka2018-qm,
@@ -9462,6 +10071,17 @@
   number   =  1,
   pages    = "87--105",
   year     =  2017
+}
+
+@ARTICLE{Aparicio-Fenoll2015-ep,
+  title   = "Working Women and Fertility: the Role of Grandmothers' Labor Force
+             Participation",
+  author  = "Aparicio-Fenoll, A and Vidal-Fernandez, M",
+  journal = "Cesifo Economic Studies",
+  volume  =  61,
+  number  =  1,
+  pages   = "123--147",
+  year    =  2015
 }
 
 @ARTICLE{Brandt2009-wk,
@@ -9864,6 +10484,87 @@
   year    =  1994
 }
 
+@ARTICLE{Adelmann1994-go,
+  title    = "Multiple roles and psychological well-being in a national sample
+              of older adults",
+  author   = "Adelmann, P K",
+  abstract = "Activity theory and the role enhancement hypothesis predict that
+              multiple role involvement in late life is linked to greater
+              psychological well-being, but the disengagement hypothesis and
+              the role change hypothesis anticipate a negative association
+              between these variables. In this study, the association between
+              multiple roles and psychological well-being is tested among
+              adults age 60 and over from a national sample. Three measures of
+              well-being are regressed on background variables, number of roles
+              (from among employee, spouse, parent, volunteer, homemaker,
+              grandparent, caregiver, and student), and interaction terms.
+              Multiple roles are associated with higher life satisfaction and
+              self-efficacy and lower depressive symptoms. A significant
+              interaction shows larger regression coefficients for roles among
+              men than women on life satisfaction, and a three-way interaction
+              indicates a stronger association of roles with self-efficacy for
+              Black men than the other three gender-ethnicity combinations.
+              Findings support the role enhancement hypothesis and the activity
+              perspective among older adults.",
+  journal  = "J. Gerontol.",
+  volume   =  49,
+  number   =  6,
+  pages    = "S277--85",
+  year     =  1994,
+  keywords = "African Americans/psychology Aged Aged, 80 and over Attitude
+              Caregivers Cross-Sectional Studies Depression/psychology
+              Educational Status Employment European Continental Ancestry
+              Group/psychology Female Humans Male Marital Status *Mental Health
+              Middle Aged Parents Personal Satisfaction Regression Analysis
+              *Role Sex Factors Students Volunteers"
+}
+
+@ARTICLE{Barnes_Nacoste1991-ts,
+  title    = "The relationship among negative life events, cognitions, and
+              depression within three generations",
+  author   = "Barnes Nacoste, D R and Wise, E H",
+  abstract = "This study investigates the extent to which cognitions mediate
+              the relationship between negative life events and depression.
+              College students and their same-sex parents and grandparents (N =
+              171) completed measures of stressful life events, automatic
+              thoughts, dysfunctional attitudes, and depression. There was an
+              interaction between negative life events and cognition for the
+              young adults but not for either of the older groups.",
+  journal  = "Gerontologist",
+  volume   =  31,
+  number   =  3,
+  pages    = "397--403",
+  year     =  1991,
+  keywords = "Adolescent Adult Age Factors Aged Aged, 80 and over Attitude
+              Depression/*etiology Family Female Humans *Life Change Events
+              Male Middle Aged Sex Factors"
+}
+
+@ARTICLE{Baum1991-qy,
+  title    = "{CAREGIVING} {AND} {MULTIGENERATIONAL} {FAMILIES}",
+  author   = "Baum, M and Page, M",
+  abstract = "Baum, m page, m 43rd annual scientific meeting of the
+              gerontological society of america 1990 Boston, ma Gerontol soc
+              amer",
+  journal  = "Gerontologist",
+  volume   =  31,
+  number   =  6,
+  pages    = "762--769",
+  year     =  1991
+}
+
+@ARTICLE{Abel1992-tp,
+  title   = "{PARENTAL} {DEPENDENCE} {AND} {FILIAL} {RESPONSIBILITY} {IN} {THE}
+             {19TH-CENTURY} - {HAWLEY,HIAL} {AND} {GILLESPIE,EMILY,HAWLEY},
+             1884-1885",
+  author  = "Abel, E K",
+  journal = "Gerontologist",
+  volume  =  32,
+  number  =  4,
+  pages   = "519--526",
+  year    =  1992
+}
+
 @ARTICLE{Burton1992-tx,
   title   = "{BLACK} {GRANDPARENTS} {REARING} {CHILDREN} {OF} {DRUG-ADDICTED}
              {PARENTS} - {STRESSORS}, {OUTCOMES}, {AND} {SOCIAL-SERVICE}
@@ -10151,6 +10852,47 @@
               Parent-Child Relations/*ethnology Parents/*psychology Public
               Policy/*legislation \& jurisprudence Rural Population *Social
               Support Socioeconomic Factors Surveys and Questionnaires"
+}
+
+@ARTICLE{Bangerter2015-pu,
+  title    = "Perceptions of Giving Support and Depressive Symptoms in Late
+              Life",
+  author   = "Bangerter, L R and Kim, K and Zarit, S H and Birditt, K S and
+              Fingerman, K L",
+  abstract = "PURPOSE OF THE STUDY: Research shows that parents benefit
+              psychologically from generativity--giving and caring for the next
+              generation--but older adults' perceptions on giving support to
+              their children are rarely if ever explored in these studies. The
+              current study examines the association between the support that
+              aging parents give to one of their middle-aged offspring, their
+              perception of this support as rewarding or stressful, and their
+              levels of depressive symptoms. DESIGN AND METHODS: The sample
+              draws from The Family Exchanges Study and consisted of 337 older
+              parents (mean age: 76) who were drawn from a larger study of
+              middle-aged adults (i.e., target participants). Older parents
+              reported tangible and nontangible forms of support given to the
+              target middle-aged child and the extent to which they viewed
+              providing such support as stressful and/or rewarding. RESULTS: We
+              found significant interactions between tangible support and
+              feelings of reward and between nontangible support and feelings
+              of stress in explaining parental depressive symptoms. Parents who
+              found giving support to be highly rewarding had lower levels of
+              depressive symptoms when giving high amounts of tangible support.
+              Conversely, parents who view giving support to be highly
+              stressful had higher levels of depressive symptoms when they gave
+              low amounts of nontangible support. IMPLICATIONS: Findings
+              suggest older parents' perceptions of supporting their offspring
+              may condition how generativity affects their mental health.",
+  journal  = "Gerontologist",
+  volume   =  55,
+  number   =  5,
+  pages    = "770--779",
+  year     =  2015,
+  keywords = "Adult *Adult Children Aged Depression/*psychology Female Humans
+              *Intergenerational Relations Male Middle Aged *Parent-Child
+              Relations Parents/*psychology Perception Quality of Life *Social
+              Support Surveys and Questionnaires Depression Generativity
+              Parent/child relationships Quality of life"
 }
 
 @ARTICLE{Friedman2017-zz,
@@ -10799,6 +11541,17 @@
   year    =  2014
 }
 
+@ARTICLE{Barth1999-js,
+  title   = "After safety, what is the goal of child welfare services:
+             permanency, family continuity or social benefit?",
+  author  = "Barth, R P",
+  journal = "Int. J. Soc. Welf.",
+  volume  =  8,
+  number  =  4,
+  pages   = "244--252",
+  year    =  1999
+}
+
 @ARTICLE{Bristow2016-va,
   title    = "The making of 'Boomergeddon': the construction of the Baby Boomer
               generation as a social problem in Britain",
@@ -11187,6 +11940,45 @@
   year      =  2000
 }
 
+@ARTICLE{Aviezer2002-vr,
+  title    = "Balancing the family and the collective in raising children: Why
+              communal sleeping in kibbutzim was predestined to end",
+  author   = "Aviezer, O and Sagi, A and van Ijzendoorn, M H",
+  abstract = "This article integrates research data about attachment in
+              kibbutz-raised children with a review of the socio-historical
+              processes that shaped the interrelations between the kibbutz
+              family and the collective and influenced childrearing practices.
+              It uses systems theory to evaluate the changing practices of
+              kibbutz childrearing with particular focus on communal sleeping
+              for infants and children away from their parents, and its impact
+              on the formation of attachment relations to parents and
+              caregivers, transmission of attachment across generations, and
+              later school competence. It argues that artificial childrearing
+              practices such as communal sleeping for infants and children
+              created a unique and unprecedented ``social experiment in
+              nature,'' which, from the perspective of attachment theory, was
+              predestined to be discontinued because it betrayed the essential
+              attachment needs of most parents and children.",
+  journal  = "Fam. Process",
+  volume   =  41,
+  number   =  3,
+  pages    = "435--454",
+  year     =  2002
+}
+
+@ARTICLE{Baker2010-hb,
+  title    = "{Mother-Grandmother} Coparenting Relationships in Families with
+              Incarcerated Mothers: A Pilot Investigation",
+  author   = "Baker, J and McHale, J and Strozier, A and Cecil, D",
+  abstract = "Baker, Jason McHale, James Strozier, Anne Cecil, Dawn Baker,
+              Jason/W-2131-2019 1545-5300",
+  journal  = "Fam. Process",
+  volume   =  49,
+  number   =  2,
+  pages    = "165--184",
+  year     =  2010
+}
+
 @ARTICLE{Larsen2012-tp,
   title     = "Client Accounts of Hope in Early Counseling Sessions: A
                Qualitative Study",
@@ -11318,6 +12110,48 @@
   year    =  2013
 }
 
+@ARTICLE{Barnett2010-ga,
+  title    = "Intergenerational Relationship Quality, Gender, and Grandparent
+              Involvement",
+  author   = "Barnett, M A and Scaramella, L V and Neppl, T K and Ontai, L and
+              Conger, R D",
+  abstract = "Barnett, Melissa A. Scaramella, Laura V. Neppl, Tricia K. Ontai,
+              Lenna Conger, Rand D. Barnett, Melissa/0000-0002-8182-4620
+              1741-3729",
+  journal  = "Fam. Relat.",
+  volume   =  59,
+  number   =  1,
+  pages    = "28--44",
+  year     =  2010
+}
+
+@ARTICLE{Barnett2012-uf,
+  title    = "{Mother-Grandmother} Conflict, Negative Parenting, and Young
+              Children's Social Development in Multigenerational Families",
+  author   = "Barnett, M A and Mills-Koonce, W R and Gustafsson, H and Cox, M
+              and {Family Life Project Key, Investigat}",
+  abstract = "Barnett, Melissa A. Mills-Koonce, W. Roger Gustafsson, Hanna Cox,
+              Martha Gustafsson, Hanna/0000-0002-8258-4921; Mills-Koonce,
+              William Roger/0000-0002-9923-1831; Barnett,
+              Melissa/0000-0002-8182-4620 1741-3729",
+  journal  = "Fam. Relat.",
+  volume   =  61,
+  number   =  5,
+  pages    = "864--877",
+  year     =  2012
+}
+
+@ARTICLE{Barnett2008-jy,
+  title   = "Mother and Grandmother Parenting in {Low-Income}
+             {Three-Generation} Rural Households",
+  author  = "Barnett, M A and {Family Life Project Key, Investigat}",
+  journal = "J. Marriage Fam. Couns.",
+  volume  =  70,
+  number  =  5,
+  pages   = "1241--1257",
+  year    =  2008
+}
+
 @ARTICLE{Fothergill2009-ks,
   title    = "Living Arrangements During Childrearing Years and Later Health of
               African American Mothers",
@@ -11331,6 +12165,16 @@
   number   =  4,
   pages    = "848--861",
   year     =  2009
+}
+
+@ARTICLE{Barnett2013-bt,
+  title   = "Pathways of Adult Children Providing Care to Older Parents",
+  author  = "Barnett, A E",
+  journal = "J. Marriage Fam. Couns.",
+  volume  =  75,
+  number  =  1,
+  pages   = "178--190",
+  year    =  2013
 }
 
 @ARTICLE{Brandt2013-jj,
@@ -11492,6 +12336,19 @@
   number   =  3,
   pages    = "429--448",
   year     =  2019
+}
+
+@ARTICLE{Arranz_Becker2013-kf,
+  title    = "What Narrows the Stepgap? Closeness Between Parents and Adult
+              ({Step)Children} in Germany",
+  author   = "Arranz Becker, O and Salzburger, V and Lois, N and Nauck, B",
+  abstract = "Arranz Becker, Oliver Salzburger, Veronika Lois, Nadia Nauck,
+              Bernhard 1741-3737",
+  journal  = "J. Marriage Fam. Couns.",
+  volume   =  75,
+  number   =  5,
+  pages    = "1130--1148",
+  year     =  2013
 }
 
 @ARTICLE{Gilligan2015-kp,
@@ -12116,6 +12973,60 @@
   language = "en"
 }
 
+@MISC{Hromadnikova2005-da,
+  title        = "{miscNon-Invasive} Fetal {RHD} Exon 7 and Exon 10 Genotyping
+                  Using {Real-Time} {PCR} Testing of Fetal {DNA} in Maternal
+                  Plasma",
+  author       = "Hromadnikova, I and Vechetova, L and Vesela, K and Benesova,
+                  B and Doucha, J and Kulovany, E and Vlk, R",
+  abstract     = "Objective: In this prospective study, we assessed the
+                  feasibility of foetal RHD genotyping by analysis of DNA
+                  extracted from plasma samples of Rhesus (Rh) D-negative
+                  pregnant women using real-time PCR and primers and probes
+                  targeted toward exon 7 and 10 of RHD gene. Methods: We
+                  analysed 24 RhD-negative pregnant woman and 4 patients with
+                  weak D phenotypes at a gestational age ranging from 11th to
+                  38th week of gestation and correlated the results with
+                  serological analysis of cord blood after the delivery.
+                  Results: Non-invasive prenatal foetal RHD exon 7 genotyping
+                  analyses of maternal plasma samples was in complete
+                  concordance with the serological analysis of cord blood in
+                  all 24 RhD-negative pregnant women delivering 12 RhD-positive
+                  and 12 RhD-negative newborns. RHD exon-10-specific PCR
+                  amplicons were not detected in 2 out of 12 studied plasma
+                  samples from women bearing RhD-positive foetus, despite the
+                  positive amplification in RHD exon 7 region observed in all
+                  cases. In 1 case red cell serology of cord blood revealed
+                  that the mother had D--C--E--c+e+ Cw-- and the infant
+                  D+C--E--c+e+ Cw+ phenotypes. RhD exon 10 real-time PCR
+                  analysis of cord blood was also negative. These findings may
+                  reflect that DCw-- paternally inherited haplotype probably
+                  possesses no RHD exon 10. In another case no cord blood
+                  sample has been available for additional studies. The
+                  specificity of both RHD exon 7 and 10 systems approached
+                  100\% since no RhD-positive signals were detected in women
+                  currently pregnant with RhD-negative foetus (n = 8). Using
+                  real-time PCR and DNA isolated from maternal plasma, we
+                  easily differentiated pregnant woman whose RBCs had a weak D
+                  phenotype (n = 4) from truly RhD-negative patients since the
+                  threshold cycle (CT) for RHD exon 10 or 7 amplicons reached
+                  nearly the same value like CT for control $\beta$-globin gene
+                  amplicons detecting the total DNA present in maternal plasma.
+                  However in these cases foetal RhD status cannot be
+                  determined.Conclusion:Prediction offoetal RhD status from
+                  maternal plasma is highly accurate and enables implementation
+                  into clinical routine. We suggest that safe non-invasive
+                  prenatal foetal RHD genotyping using maternal plasma should
+                  involve the amplification of at least two RHD-specific
+                  products.",
+  journal      = "Fetal Diagn. Ther.",
+  volume       =  20,
+  number       =  4,
+  pages        = "275--280",
+  year         =  2005,
+  howpublished = "<script>alert(1)</script>"
+}
+
 @ARTICLE{Kinzl2006-lu,
   title    = "Orthorexia nervosa in dieticians",
   author   = "Kinzl, Johann F and Hauer, Katharina and Traweger, Christian and
@@ -12698,6 +13609,83 @@
   year     =  2010
 }
 
+@ARTICLE{Ardington2010-bk,
+  title    = "The Impact of {AIDS} on Intergenerational Support in South
+              Africa: Evidence From the Cape Area Panel Study",
+  author   = "Ardington, C and Case, A and Islam, M and Lam, D and Leibbrandt,
+              M and Menendez, A and Olgiati, A",
+  abstract = "Ardington, Cally Case, Anne Islam, Mahnaz Lam, David Leibbrandt,
+              Murray Menendez, Alicia Olgiati, Analia 1552-7573",
+  journal  = "Res. Aging",
+  volume   =  32,
+  number   =  1,
+  pages    = "97--121",
+  year     =  2010
+}
+
+@ARTICLE{Ayalon2016-de,
+  title    = "Intergenerational Perspectives on Autonomy Following a Transition
+              to a Continuing Care Retirement Community",
+  author   = "Ayalon, L",
+  abstract = "The study evaluated the concept of autonomy from the perspective
+              of older adults and their adult children following a transition
+              of the older adult to a continuing care retirement community
+              (CCRC). Overall, 70 interviews (with older adults and their adult
+              children; 34 dyads) were analyzed, using a line-by-line open
+              coding, followed by dyadic analysis. Autonomy was not portrayed
+              as a uniform, homogenous construct, but rather encompassed four
+              different domains: (a) the focus of one's attention or concerns:
+              on others, on self, or not at all; (b) the ability to exercise
+              decisions and make independent choices; (c) the degree of
+              physical functioning and ability of the older adult; and (d) the
+              financial ability of the older adult. The duality in the
+              relationships between older adults and their adult children is
+              discussed in relation to the give and take of autonomy that occur
+              following a transition to a CCRC.",
+  journal  = "Res. Aging",
+  volume   =  38,
+  number   =  2,
+  pages    = "127--149",
+  year     =  2016,
+  keywords = "Adult Children Aged, 80 and over Female *Housing for the Elderly
+              Humans Male Middle Aged Personal Autonomy *Retirement caregiving
+              continuing care retirement community formal independence informal
+              intergenerational long-term care solidarity transitions"
+}
+
+@ARTICLE{Ayalon2018-yl,
+  title    = "Family Relations and Elder Care Among Arabs in the North of
+              Israel",
+  author   = "Ayalon, L",
+  abstract = "The study examined family relations and elder care, in light of
+              the modernization processes that are taking place in the Arab
+              sector. Interviews with 25 older adults, 27 family members, and 5
+              paid home care workers of an Arab origin were conducted.
+              Qualitative analysis consisted of constant comparisons and
+              contrasts of relevant themes. Most Arabs reported that
+              intergenerational solidarity is very strong in the Arab sector.
+              Whereas many older adults and a few of their family members
+              tended to favor paid care, the majority of Arab family members
+              and fewer older adults stated that family care is preferred.
+              Finally, a third theme outlined the desired properties of care,
+              which consists of a true mix between formal and informal care.
+              The study points to two sources of tension between (a) older
+              adults and their family members and (b) perspectives on care held
+              by the National Insurance Institute and the Arab sector.",
+  journal  = "Res. Aging",
+  volume   =  40,
+  number   =  9,
+  pages    = "839--858",
+  year     =  2018,
+  keywords = "Aged Aged, 80 and over Arabs/*psychology
+              Caregivers/economics/legislation \& jurisprudence/*statistics \&
+              numerical data Female Humans *Intergenerational Relations
+              Interviews as Topic Israel Male Middle Aged National Health
+              Programs/economics/legislation \& jurisprudence Qualitative
+              Research *ambivalence *conflict *cultural sensitivity *formal
+              care *informal care *intergenerational solidarity"
+}
+
 @ARTICLE{Choi2018-cd,
   title   = "Grandparenting and {Self-Rated} Health Among Older Korean Women",
   author  = "Choi, S W and Zhang, Z M",
@@ -12716,6 +13704,18 @@
   number  =  4,
   pages   = "427--447",
   year    =  1992
+}
+
+@ARTICLE{An2006-br,
+  title   = "Psychological well-being in mid to late life: The role of
+             generativity development and parent-child relationships across the
+             lifespan",
+  author  = "An, J S and Cooney, T M",
+  journal = "Int. J. Behav. Dev.",
+  volume  =  30,
+  number  =  5,
+  pages   = "410--421",
+  year    =  2006
 }
 
 @ARTICLE{Delord2017-me,
@@ -12742,6 +13742,17 @@
   number  =  8,
   pages   = "1006--1030",
   year    =  2000
+}
+
+@ARTICLE{Aldous1995-ag,
+  title   = "{NEW} {VIEWS} {OF} {GRANDPARENTS} {IN} {INTERGENERATIONAL}
+             {CONTEXT}",
+  author  = "Aldous, J",
+  journal = "J. Fam. Issues",
+  volume  =  16,
+  number  =  1,
+  pages   = "104--122",
+  year    =  1995
 }
 
 @ARTICLE{Deutsch2006-gq,
@@ -12777,6 +13788,31 @@
   number  =  11,
   pages   = "1605--1626",
   year    =  2006
+}
+
+@ARTICLE{Albertini2014-my,
+  title   = "Childlessness and Support Networks in Later Life: New Pressures on
+             Familistic Welfare States?",
+  author  = "Albertini, M and Mencarini, L",
+  journal = "J. Fam. Issues",
+  volume  =  35,
+  number  =  3,
+  pages   = "331--357",
+  year    =  2014
+}
+
+@ARTICLE{Bangerter2018-ez,
+  title    = "Life Problems and Perceptions of Giving Support: Implications for
+              Aging Mothers and {Middle-Aged} Children",
+  author   = "Bangerter, L R and Polenick, C A and Zarit, S H and Fingerman, K
+              L",
+  abstract = "Bangerter, Lauren R. Polenick, Courtney A. Zarit, Steven H.
+              Fingerman, Karen L. 1552-5481",
+  journal  = "J. Fam. Issues",
+  volume   =  39,
+  number   =  4,
+  pages    = "917--934",
+  year     =  2018
 }
 
 @ARTICLE{Ebert_undated-ol,
@@ -13233,6 +14269,19 @@
               *grandparents *intergenerational relationships *subjective age"
 }
 
+@ARTICLE{Arpino2019-aw,
+  title    = "Education Inequalities in Health Among Older European Men and
+              Women: The Role of Active Aging",
+  author   = "Arpino, B and Sole-Auro, A",
+  abstract = "Arpino, Bruno Sole-Auro, Aida Arpino, Bruno/G-2775-2013 Arpino,
+              Bruno/0000-0002-8374-3066 1552-6887",
+  journal  = "J. Aging Health",
+  volume   =  31,
+  number   =  1,
+  pages    = "185--208",
+  year     =  2019
+}
+
 @ARTICLE{Cantu2017-qg,
   title    = "Demography of Living Arrangements Among {Oldest-Old} Mexican
               Americans: Evidence From the Hispanic Epidemiologic Study of the
@@ -13244,6 +14293,54 @@
   number   =  6,
   pages    = "1015--1038",
   year     =  2017
+}
+
+@ARTICLE{Abalos2018-yd,
+  title    = "Who cares? Provision of Care and Assistance Among Older Persons
+              in the Philippines",
+  author   = "Abalos, J B and Saito, Y and Cruz, G T and Booth, H",
+  abstract = "OBJECTIVE: This study aims to examine the provision of assistance
+              among older persons in the Philippines who experience difficulty
+              with activities of daily living (ADLs) or instrumental activities
+              of daily living (IADLs). METHOD: Data for this research are drawn
+              from the 2007 Philippine Study on Aging (PSOA). Cross-tabulations
+              and regression analyses are used to identify who provides
+              assistance to older Filipinos. RESULTS: The study shows that the
+              Filipino family, particularly spouse and daughters, plays an
+              important role in providing assistance to older Filipinos who
+              need help in carrying out functional activities. This provision
+              of caregiving, however, follows a gendered pattern. Specifically,
+              the spouse provides assistance to older men, whereas daughters
+              provide assistance to older women. Grandchildren and
+              noncoresident family members, to some extent, are also active in
+              providing care to older Filipinos. DISCUSSION: The Filipino
+              family remains faithful to its filial duty toward older persons,
+              but who provides care and the way it is provided are likely to
+              change due to the demographic changes and values shifts that have
+              swept the country.",
+  journal  = "J. Aging Health",
+  volume   =  30,
+  number   =  10,
+  pages    = "1536--1555",
+  year     =  2018,
+  keywords = "Aged Aged, 80 and over Caregivers/*statistics \& numerical data
+              *Family Female Health Surveys Humans Intergenerational Relations
+              Male Middle Aged Philippines Population Dynamics Role *ADL or
+              IADL difficulty *older Filipinos *provision of caregiving and
+              assistance"
+}
+
+@ARTICLE{Albertini2007-ae,
+  title    = "Intergenerational transfers of time and money in European
+              families: common patterns - different regimes?",
+  author   = "Albertini, M and Kohli, M and Vogel, C",
+  abstract = "Albertini, Marco Kohli, Martin Vogel, Claudia Albertini,
+              Marco/B-9222-2009 Albertini, Marco/0000-0003-0344-3002",
+  journal  = "J. Eur. Soc. Policy",
+  volume   =  17,
+  number   =  4,
+  pages    = "319--334",
+  year     =  2007
 }
 
 @ARTICLE{Gal2010-or,
@@ -13419,6 +14516,33 @@
   language = "en"
 }
 
+@ARTICLE{Bai2016-ef,
+  title    = "The Protective Effect of Kinship Involvement on the Adjustment of
+              Youth in Foster Care",
+  author   = "Bai, G J and Leon, S C and Garbarino, J and Fuller, A K",
+  abstract = "Bai, Grace Jhe Leon, Scott C. Garbarino, James Fuller, Anne K.
+              1552-6119",
+  journal  = "Child Maltreat.",
+  volume   =  21,
+  number   =  4,
+  pages    = "288--297",
+  year     =  2016
+}
+
+@ARTICLE{Barrington2017-jx,
+  title    = "Using {Photo-Elicitation} Methods to Understand Resilience Among
+              {Ultra-Poor} Youth and Their Caregivers in Malawi",
+  author   = "Barrington, C and Villa-Torres, L and Abdoulayi, S and Tsoka, M G
+              and Mvula, P M",
+  abstract = "Barrington, Clare Villa-Torres, Laura Abdoulayi, Sara Tsoka,
+              Maxton Grant Mvula, Peter Matthias 1552-6127 Si",
+  journal  = "Health Educ. Behav.",
+  volume   =  44,
+  number   =  5,
+  pages    = "758--768",
+  year     =  2017
+}
+
 @ARTICLE{Wendt2012-ho,
   title    = "Rethinking cultural competence: insights from indigenous
               community treatment settings",
@@ -13532,6 +14656,40 @@
   language  = "en"
 }
 
+@ARTICLE{Baker2017-jd,
+  title    = "Intergenerational Programs May Be Especially Engaging for Aged
+              Care Residents With Cognitive Impairment: Findings From the
+              Avondale Intergenerational Design Challenge",
+  author   = "Baker, J R and Webster, L and Lynn, N and Rogers, J and Belcher,
+              J",
+  abstract = "Intergenerational programs are an authentic way to engage elders
+              in meaningful activity and report benefits to both elders and
+              youth. The Avondale Intergenerational Design Challenge (AVID)
+              randomly assigned small teams of technology students aged 13 to
+              15 years (total N = 59) to 1 of 24 aged care residents with a
+              range of cognitive impairment. Students met with the resident 4
+              times over 15 weeks and ultimately crafted a personalized item
+              for them. Students showed no change in self-reported attitudes to
+              elders, empathy, or self-esteem post-AVID or at 3-month
+              follow-up, compared to a 3-month within-subject control period
+              pre-AVID. Compared to usual lifestyle activities, residents
+              showed significant improvements in self-reported positive affect
+              and negative affect after student visits and were observed to be
+              significantly more engaged during visits, especially residents
+              with greater cognitive impairment. The personal and guided nature
+              of intergenerational programs may be especially effective in
+              engaging elders with cognitive impairment in meaningful activity.",
+  journal  = "Am. J. Alzheimers. Dis. Other Demen.",
+  volume   =  32,
+  number   =  4,
+  pages    = "213--221",
+  year     =  2017,
+  keywords = "Adolescent Aged, 80 and over Cognitive Dysfunction/*psychology
+              Dementia/psychology Empathy Female Humans *Intergenerational
+              Relations Long-Term Care/*psychology Male Self Concept affect
+              dementia engagement intergenerational"
+}
+
 @ARTICLE{Close2006-nk,
   title    = "The blonde nun",
   author   = "Close, H",
@@ -13545,6 +14703,38 @@
   year     =  2006,
   keywords = "*Catholicism *Confidentiality Female *Friends Humans
               Intergenerational Relations United States"
+}
+
+@ARTICLE{Bates2012-bn,
+  title    = "Grandfather Involvement and aging men's mental health",
+  author   = "Bates, J S and Taylor, A C",
+  abstract = "The mental health of aging men is an understudied social issue.
+              Although it is widely accepted that meaningful family
+              relationships are associated with fewer depressive symptoms and
+              greater positive affect, scholars have largely overlooked
+              relationships between grandfathers and grandchildren as being
+              beneficial to men's mental health. This study investigates the
+              differences in the depressive symptoms and positive affect of 351
+              grandfathers. Using a cluster analytic technique, participants
+              were categorized as involved, passive, and disengaged based on
+              their frequency of contact, level of commitment, and
+              participation in activities with grandchildren. Comparative
+              analyses indicate that involved grandfathers had fewer depressive
+              symptoms than disengaged grandfathers. Involved grandfathers had
+              significantly higher scores on positive affect than disengaged
+              grandfathers, and passive grandfathers had significantly higher
+              scores on positive affect than disengaged grandfathers. This
+              study provides evidence that grandfather-grandchild relationships
+              influence aging men's mental health. Implications for
+              practitioners working with aging men are discussed.",
+  journal  = "Am. J. Mens. Health",
+  volume   =  6,
+  number   =  3,
+  pages    = "229--239",
+  year     =  2012,
+  keywords = "Affect Aged Aging/*psychology Cluster Analysis Data Collection
+              Depression Humans *Intergenerational Relations Male *Mental
+              Health New York"
 }
 
 @ARTICLE{Aldao2013-rt,
@@ -14440,6 +15630,45 @@
   year    =  1994
 }
 
+@ARTICLE{Abas2009-xu,
+  title    = "Rural-urban migration and depression in ageing family members
+              left behind",
+  author   = "Abas, M A and Punpuing, S and Jirapramukpitak, T and Guest, P and
+              Tangchonlatip, K and Leese, M and Prince, M",
+  abstract = "BACKGROUND: It has been suggested that rural-urban migration will
+              have adverse consequences for older parents left behind. AIMS: To
+              describe correlates of outmigration and to estimate any
+              association between outmigration of children and depression in
+              rural-dwelling older parents. METHOD: Population-based survey of
+              1147 parents aged 60 and over in rural Thailand. We randomly
+              oversampled parents living without children. We defined an
+              outmigrant child as living outside their parent's district, and
+              measured depression as a continuous outcome with a Thai version
+              of the EURO-D. RESULTS: Outmigration of all children, compared
+              with outmigration of some or no children, was independently
+              associated with less depression in parents. This association
+              remained after taking account of social support, parent
+              characteristics, health and wealth. Parents with all children
+              outmigrated received more economic remittances and they perceived
+              support to be as good as that of those with children close by.
+              CONCLUSIONS: Outmigration of children was not associated with
+              greater depression in older parents and, after taking account of
+              a range of possible covariables, was actually associated with
+              less parental depression. This could be explained by pre-existing
+              advantages in families sending more migrants and by the economic
+              benefits of migration.",
+  journal  = "Br. J. Psychiatry",
+  volume   =  195,
+  number   =  1,
+  pages    = "54--60",
+  year     =  2009,
+  keywords = "Adaptation, Psychological Aged Aged, 80 and over Depressive
+              Disorder/*psychology *Emigration and Immigration Female Humans
+              Intergenerational Relations Male Middle Aged Parents/*psychology
+              *Population Dynamics Rural Health Social Support Socioeconomic
+              Factors Thailand"
+}
+
 @ARTICLE{Jacobson2009-kx,
   title    = "Ethical issues related to patient use of complementary and
               alternative medicine",
@@ -14481,6 +15710,16 @@
   pages     = "195--208",
   month     =  sep,
   year      =  1997
+}
+
+@ARTICLE{Baum2017-ps,
+  title   = "The Body as Archive: The Shoah and the Story (Not) Told",
+  author  = "Baum, R",
+  journal = "Poetics Today",
+  volume  =  38,
+  number  =  4,
+  pages   = "667--693",
+  year    =  2017
 }
 
 @ARTICLE{Bedford2011-in,
@@ -15565,6 +16804,87 @@
   language = "en"
 }
 
+@ARTICLE{Awad2008-uf,
+  title    = "The burden of schizophrenia on caregivers: a review",
+  author   = "Awad, A G and Voruganti, L N",
+  abstract = "Schizophrenia is a disabling, chronic psychiatric disorder that
+              poses numerous challenges in its management and consequences. It
+              extols a significant cost to the patient in terms of personal
+              suffering, on the caregiver as a result of the shift of burden of
+              care from hospital to families, and on society at large in terms
+              of significant direct and indirect costs that include frequent
+              hospitalizations and the need for long-term psychosocial and
+              economic support, as well as life-time lost productivity. 'Burden
+              of care' is a complex construct that challenges simple
+              definition, and is frequently criticized for being broad and
+              generally negative. Frequently, burden of care is more defined by
+              its impacts and consequences on caregivers. In addition to the
+              emotional, psychological, physical and economic impact, the
+              concept of 'burden of care' involves subtle but distressing
+              notions such as shame, embarrassment, feelings of guilt and
+              self-blame. The early conceptualization of 'burden of care' into
+              two distinct components (objective and subjective) has guided
+              research efforts until the present time. Objective burden of care
+              is meant to indicate its effects on the household such as taking
+              care of daily tasks, whereas subjective burden indicates the
+              extent to which the caregivers perceive the burden of care.
+              Research contributions in later years (1980s to the present) have
+              added more depth to understanding of the construct of burden of
+              care by exploring important determinants and factors that likely
+              contribute or mediate the caregiver's perception of burden of
+              care. Several studies examined the role of gender, and reported
+              that relatives of male patients with schizophrenia frequently
+              experience more social dysfunction and disabilities than those of
+              female patients. Similarly, a number of other studies documented
+              the contribution of ethnicity and cultural issues to subjective
+              burden of care. Although there is no complete agreement on
+              whether a specific cluster of psychotic symptoms has the most
+              impact on a caregiver's burden of care, there is agreement that
+              the severity of symptoms increases it. An extensive literature
+              concerning family interventions in schizophrenia has demonstrated
+              the positive impact of various family interventions in improving
+              family environment, reducing relapse and easing the burden of
+              care. Although the evidence of such positive impact of family
+              interventions in schizophrenia is well documented, such
+              interventions are neither widely used nor appropriately
+              integrated in care plans, and are frequently underfunded.
+              Although the cost of caregiving is considered to be significant,
+              there are no reliable estimates of the costs associated with such
+              care. The majority of available literature categorized the cost
+              of burden of care among the indirect costs of schizophrenia in
+              general. In recent years, attempts to compare the costs of
+              caregiving in several countries have been reported in the
+              evolving literature on this topic. 'Burden of care' as a complex
+              construct certainly requires the development of appropriate
+              methodology for its costing. In achieving a balance between the
+              patients' and caregivers' perspectives, caregivers have to be
+              included in the care plan and adequate information and support
+              extended to the family and caregivers. Access to better treatment
+              for patients, including medications, psychosocial interventions
+              and rehabilitation services, are important basic elements in
+              easing the burden on caregivers. Other measures such as
+              availability of crisis management, provision of legally mandated
+              community treatment to avert hospitalization, and well informed
+              and balanced advocacy are also important. Although research
+              efforts have been expanded in the last 3 decades, an urgent need
+              exists for enhancing such efforts, particularly in the
+              development and evaluation of effective family interventions
+              strategies. There is also a need for continued improvement in the
+              delivery of psychiatric services to the severely psychiatrically
+              ill and their families. As there is a lack of reliable cost
+              information about the family burden of care specific to
+              schizophrenia, there is an urgent need to develop reliable
+              approaches that can generate data that can inform in policy
+              making and organization of services.",
+  journal  = "Pharmacoeconomics",
+  volume   =  26,
+  number   =  2,
+  pages    = "149--162",
+  year     =  2008,
+  keywords = "Caregivers/economics/*psychology Cost of Illness Humans
+              Schizophrenia/economics/*therapy"
+}
+
 @ARTICLE{Emick1996-xg,
   title   = "Custodial grandparenting: New roles for middle-aged and older
              adults",
@@ -15857,6 +17177,21 @@
   year    =  1998
 }
 
+@INCOLLECTION{noauthor_2018-oc,
+  title     = "Dixon Chibanda: grandmothers help to scale up mental health care",
+  booktitle = "Bull World Health Organ",
+  abstract  = "Dixon Chibanda developed the Friendship Bench approach to mental
+               health care in Zimbabwe. He tells Fiona Fleck how he is taking
+               the innovative approach to other countries.",
+  volume    =  96,
+  pages     = "376--377",
+  year      =  2018,
+  address   = "Switzerland",
+  keywords  = "Community Health Workers Community Mental Health
+               Services/*methods *Grandparents History, 21st Century Humans
+               Male Mental Disorders/*therapy *Mental Health Zimbabwe"
+}
+
 @ARTICLE{Babicz-Zielinska2013-yh,
   title    = "Eating Disorders: Problems of Contemporary Civilisation -- A
               Review",
@@ -15997,6 +17332,29 @@
   language = "en"
 }
 
+@ARTICLE{Anderson2018-yd,
+  title    = "Should {I} Stay or Go: Rural Ageing, a Time for Reflection",
+  author   = "Anderson, E M and Larkins, S and Beaney, S and Ray, R A",
+  abstract = "Anderson, Emily M. Larkins, Sarah Beaney, Sarah Ray, Robin A.
+              Ray, Robin A/S-4706-2017; Larkins, Sarah/A-2319-2013 Ray, Robin
+              A/0000-0003-3947-0571; Larkins, Sarah/0000-0002-7561-3202
+              2308-3417",
+  journal  = "Geriatrics",
+  volume   =  3,
+  number   =  3,
+  year     =  2018
+}
+
+@ARTICLE{Bailey2018-tr,
+  title   = "``They had to Go': Indian Older Adults' Experiences of
+             Rationalizing and Compensating the Absence of Migrant Children",
+  author  = "Bailey, A and Hallad, J and James, K S",
+  journal = "Sustain. Sci. Pract. Policy",
+  volume  =  10,
+  number  =  6,
+  year    =  2018
+}
+
 @ARTICLE{Haman2015-jq,
   title    = "Orthorexia nervosa: An integrative literature review of a
               lifestyle syndrome",
@@ -16042,6 +17400,40 @@
   language = "en"
 }
 
+@ARTICLE{Alpert1994-dw,
+  title    = "The future and primary care",
+  author   = "Alpert, J J",
+  abstract = "Primary care is about the intimate contact that takes place when
+              a patient comes to the physician because that individual is
+              concerned that he or she, son or daughter, parent or grandparent
+              is sick, or is well and wants to stay well. Our history has been
+              that we have paid attention to important problems but we have
+              missed so far on primary care as a megatrend. As noted, one of
+              our most important societal megatrends is proverty and how
+              poverty places children at risk. Poverty and primary care are
+              linked. The reality that all of our citizens do not have access
+              to primary care is not just our failure but it is society's as
+              well. We pediatricians face many problems. In developing
+              solutions, historically our profession has never lost sight of
+              the fact that we are a helping and caring discipline. We are an
+              advocate for the poor, advocates for children, advocates for
+              community, and that is a large job. But the challenge is real,
+              and we do not have much time. Now is not the time to be timid. We
+              need to achieve consensus, accepting and acting on the megatrend
+              of securing the future for primary care.",
+  journal  = "Pediatr. Ann.",
+  volume   =  23,
+  number   =  12,
+  pages    = "690, 692--4",
+  year     =  1994,
+  keywords = "Child Child Advocacy Child Welfare Community Medicine/trends
+              Comprehensive Health Care Education, Medical Family
+              Practice/education *Forecasting Health Care Costs Health Services
+              Accessibility Humans Patient-Centered Care
+              Pediatrics/education/*trends Poverty Primary Health Care/*trends
+              Public Policy Risk Factors United States"
+}
+
 @ARTICLE{Chan2018-wy,
   title    = "Life-cycle and intergenerational effects of child care reforms",
   author   = "Chan, M K and Liu, K",
@@ -16063,6 +17455,18 @@
   volume   =  27,
   pages    = "167--199",
   year     =  2012
+}
+
+@ARTICLE{Arpino2018-ah,
+  title    = "Family histories and the demography of grandparenthood",
+  author   = "Arpino, B and Guma, J and Julia, A",
+  abstract = "Arpino, Bruno Guma, Jordi Julia, Albert Guma, Jordi/A-3657-2016;
+              Arpino, Bruno/G-2775-2013 Guma, Jordi/0000-0003-2640-5391;
+              Arpino, Bruno/0000-0002-8374-3066",
+  journal  = "Demogr. Res.",
+  volume   =  39,
+  pages    = "1105--1150",
+  year     =  2018
 }
 
 @ARTICLE{Kim2013-ni,
@@ -16131,6 +17535,20 @@
   year     =  2014,
   keywords = "anorexia; body image; bulimia; self-esteem",
   language = "en"
+}
+
+@ARTICLE{Avan2007-hv,
+  title    = "The role of family configuration in early childhood intellectual
+              development in the context of an extended family system in
+              Pakistan",
+  author   = "Avan, B I and Rahbar, M H and Raza, S A",
+  abstract = "Avan, B., I Rahbar, M. H. Raza, S. A. Iqbal Avan,
+              Bilal/0000-0003-4531-4508",
+  journal  = "J. Postgrad. Med.",
+  volume   =  53,
+  number   =  1,
+  pages    = "27--33",
+  year     =  2007
 }
 
 @INCOLLECTION{OConnell2003-kf,
@@ -16578,6 +17996,38 @@
   year      =  2017
 }
 
+@ARTICLE{Baroody2009-nn,
+  title    = "The dresser",
+  author   = "Baroody, J",
+  abstract = "Baroody, Joe Journal Article United States J Pastoral Care
+              Counsel. 2009 Fall-Winter;63(3-4):16-1-3.",
+  journal  = "J. Pastoral Care Counsel.",
+  volume   =  63,
+  number   = "3-4",
+  pages    = "16--1--3",
+  year     =  2009,
+  keywords = "Aged, 80 and over *Alzheimer Disease Anecdotes as Topic *Attitude
+              to Health Female Humans *Intergenerational Relations Memory
+              Personal Satisfaction Poetry as Topic *Wit and Humor as Topic"
+}
+
+@ARTICLE{Barnette2004-cr,
+  title    = "When the old care for the older: one elderly caregiver's story",
+  author   = "Barnette, M",
+  abstract = "Barnette, Marcie Journal Article United States Caring. 2004
+              May;23(5):6-9.",
+  journal  = "Caring",
+  volume   =  23,
+  number   =  5,
+  pages    = "6--9",
+  year     =  2004,
+  keywords = "Adult Children/*psychology Aged Aged, 80 and over Anecdotes as
+              Topic Caregivers/*psychology/statistics \& numerical data Cost of
+              Illness Decision Making Female Frail Elderly/*psychology Humans
+              *Intergenerational Relations Love Middle Aged Respite Care
+              *Social Support Stress, Psychological United States"
+}
+
 @ARTICLE{Choo1990-fy,
   title    = "Singapore--an ageing society",
   author   = "Choo, P W and Lee, K S and Owen, R E and Jayaratnam, F J",
@@ -16689,6 +18139,17 @@
   publisher = "Myron B. Thompson School of Social Work, University of Hawaii at
                Manoa",
   year      =  2010
+}
+
+@ARTICLE{Alawad1992-mp,
+  title   = "{CHILDHOOD} {PROBLEMS} {IN} A {SUDANESE} {CITY} - A {COMPARISON}
+             {OF} {EXTENDED} {AND} {NUCLEAR} {FAMILIES}",
+  author  = "Alawad, A M E and Sonugabarke, E J S",
+  journal = "Child Dev.",
+  volume  =  63,
+  number  =  4,
+  pages   = "906--914",
+  year    =  1992
 }
 
 @PHDTHESIS{Jesko2015-io,
@@ -17296,9 +18757,51 @@
               Midwifery"
 }
 
+@ARTICLE{Barusch1995-om,
+  title    = "Programming for family care of elderly dependents: mandates,
+              incentives, and service rationing",
+  author   = "Barusch, A S",
+  abstract = "In response to a demographic imperative, many countries have
+              established policies to increase family involvement in the care
+              of their dependent elderly relatives. Reflecting fiscal
+              constraints and cultural norms, these policies are often designed
+              to place the burden of care on family rather than government.
+              This article offers a survey and critique of three approaches to
+              increasing family care of elderly people: filial support
+              legislation, incentives for family caregivers, and service
+              rationing provisions. Drawing in part on the results of a survey
+              with respondents from 33 countries, it concludes that policies
+              that require or encourage relatives to provide care may have
+              adverse consequences for elderly people and their families. Human
+              services advocates should support policies and interventions that
+              provide universal access to a continuum of care alternatives that
+              facilitate rational health care decision making by families and
+              that empower and sustain family members who choose to care for
+              elderly relatives.",
+  journal  = "Soc. Work.",
+  volume   =  40,
+  number   =  3,
+  pages    = "315--322",
+  year     =  1995,
+  keywords = "Aged Caregivers/*organization \& administration *Family Health
+              Care Rationing Health Services for the
+              Aged/economics/*legislation \& jurisprudence Humans
+              Intergenerational Relations Motivation Social Welfare/*economics"
+}
+
 @ARTICLE{Rickard_undated-gx,
   title  = "A thesis written by",
   author = "Rickard, Ashley Deanna"
+}
+
+@ARTICLE{Agree2017-jb,
+  title   = "Social Changes in Women's Roles, Families, and Generational Ties",
+  author  = "Agree, E M",
+  journal = "Generations-Journal of the American Society on Aging",
+  volume  =  41,
+  number  =  2,
+  pages   = "63--70",
+  year    =  2017
 }
 
 @ARTICLE{Counselingeducation_undated-vp,
@@ -17504,6 +19007,29 @@
               Male"
 }
 
+@ARTICLE{Aschenbrener1998-ee,
+  title    = "The future is in the present: the impact of generations",
+  author   = "Aschenbrener, C A",
+  abstract = "Among the complex mix of forces that shape our futures are
+              differences among generations. A generation is a cohort, roughly
+              twenty-some years in duration, where the members have experienced
+              a common formative environment and tend to react to the world in
+              patterned fashion. The defining characteristics of five
+              generations are discussed: Gl, Silent, Boomers, Generation X, and
+              the millennial generation. Implications are drawn for patient
+              preferences as dental consumers, recruitment and management of
+              faculty and others in organizations, and the transitions of
+              values in leadership of professional organizations.",
+  journal  = "J. Am. Coll. Dent.",
+  volume   =  65,
+  number   =  4,
+  pages    = "23--28",
+  year     =  1998,
+  keywords = "Cohort Effect *Demography Dental Health Services/*trends
+              Forecasting Health Care Sector/*trends Humans Intergenerational
+              Relations United States"
+}
+
 @BOOK{Parse1999-my,
   title     = "Hope: An international human becoming perspective",
   author    = "Parse, Rosemarie Rizzo",
@@ -17563,6 +19089,28 @@
   year     =  2000
 }
 
+@ARTICLE{Baxter2005-eu,
+  title    = "A human galaxy: A prehistory of the future",
+  author   = "Baxter, S",
+  abstract = "In the very long term, how could humans colonise the Galaxy?
+              Colonisation cannot be centrally controlled; deeper drives must
+              be tapped. It may take centuries to colonise the nearest stars:
+              it may be a 'programme' like the Industrial Revolution, fuelled
+              by entrepreneurship. To build a respectable interstellar empire
+              may take millennia. Religions are similar multigenerational
+              projects. Perhaps colonists will be motivated by appropriate
+              creeds. To win the Galaxy, starship technology must persist for
+              tens or hundreds of millennia. Homo erectus made the same
+              hand-axe for a million years. The driver was biological, not
+              conscious. Perhaps to our descendants starships will be like
+              peacock tails.",
+  journal  = "Jbis-Journal of the British Interplanetary Society",
+  volume   =  58,
+  number   = "3-4",
+  pages    = "138--142",
+  year     =  2005
+}
+
 @ARTICLE{Cardwell1972-ua,
   title    = "Foster grandparent program at Greene Valley Hospital and School",
   author   = "Cardwell, M N",
@@ -17589,6 +19137,46 @@
   journal   = "Motiv. Interviewing",
   publisher = "researchgate.net",
   year      =  2002
+}
+
+@ARTICLE{Attias-Donfut2001-sp,
+  title    = "The dynamics of elderly support. The transmission of solidarity
+              patterns between generations",
+  author   = "Attias-Donfut, C",
+  abstract = "This paper analyses the support given to the handicapped elderly
+              by their children on the basis of a large survey done in France
+              where both the elderly and their middle-aged children were
+              interviewed. These data allow us to address such questions as:
+              ``Who helps?'', ``Who receives help?'' and ``According to what
+              principles?''. Besides the principle of need which is at work,
+              the results show that there is also the principle of equity,
+              which functions through reciprocity. This study highlights two
+              main processes in the dynamics of support for the elderly, its
+              redistributive effects (family support mainly benefits the
+              poorest elderly), and its complementarity with the state health
+              care systems (family support is mainly directed towards those who
+              also receive public help). Can we make the deduction that the
+              more generous the welfare state, the more developed family
+              solidarity is? Nevertheless, some difficulties arise: support is
+              mostly given by women. Furthermore there are a small number of
+              people on whose shoulders it falls to take care of everybody else
+              in the family. One sign of these difficulties is that the carers
+              are more often in less good health than the non-carers of the
+              same age. Comparisons from one generation to the other, including
+              the youngest (the children of the middle generation who were also
+              interviewed) shows that the younger generation will not want to
+              be so completely involved in parental care at the expense of
+              their own private time and life. Most probably family involvement
+              will be maintained in the future, but to a lesser extent.",
+  journal  = "Z. Gerontol. Geriatr.",
+  volume   =  34,
+  number   =  1,
+  pages    = "9--15",
+  year     =  2001,
+  keywords = "Adult Aged Aged, 80 and over Aging/*psychology
+              Caregivers/*psychology Female Forecasting Germany Humans
+              *Intergenerational Relations Male Middle Aged *Social Support
+              Social Welfare/*trends"
 }
 
 @ARTICLE{Covletter_undated-ka,
@@ -17912,6 +19500,20 @@
               *Models, Psychological *Social Distance Social Perception"
 }
 
+@ARTICLE{Barber2004-ob,
+  title    = "[Art, culture and intergenerational relationships]",
+  author   = "Barber, F",
+  abstract = "Barber, Fabienne Journal Article France Soins Gerontol. 2004
+              Jul-Aug;(48):40-2.",
+  journal  = "Soins Gerontol.",
+  number   =  48,
+  pages    = "40--42",
+  year     =  2004,
+  keywords = "Activities of Daily Living Aged/*psychology Aged, 80 and over
+              *Art Child Cultural Characteristics France Humans
+              *Intergenerational Relations/ethnology *Psychology, Child"
+}
+
 @PHDTHESIS{Bown2015-ms,
   title  = "Shared trauma after a flood: a manual for therapists",
   author = "Bown, Johnathan",
@@ -17970,6 +19572,22 @@
               European Continental Ancestry Group Female Humans Infant
               *Intergenerational Relations Male Middle Aged *Nuclear Family
               Parent-Child Relations *Parenting"
+}
+
+@ARTICLE{Abraham2007-ij,
+  title    = "[Elderly of today and elderly of tomorrow]",
+  author   = "Abraham, G",
+  abstract = "Abraham, G Journal Article Switzerland Rev Med Suisse. 2007 Apr
+              18;3(107):1015.",
+  journal  = "Rev. Med. Suisse",
+  volume   =  3,
+  number   =  107,
+  pages    = "1015",
+  year     =  2007,
+  keywords = "Accidents, Traffic Adolescent Adult Aged *Aging *Health Care
+              Costs Humans Intergenerational Relations Life Style *Longevity
+              *Personality Social Behavior Substance-Related Disorders
+              Technology Warfare"
 }
 
 @ARTICLE{Braun2009-wj,
@@ -18430,6 +20048,33 @@
   year    =  2014
 }
 
+@ARTICLE{Agree2003-mh,
+  title    = "Simultaneous care for parents and care for children among
+              mid-life British women and men",
+  author   = "Agree, E and Bissett, B and Rendall, M S",
+  abstract = "This article investigates care provided to parents and
+              parents-in-law by mid-life adults with dependent children at
+              home. Data from the General Household Survey are used first to
+              estimate the prevalence of this 'two-way' care over the past
+              decade, and second to develop forecasts of two-way care for a
+              generation of women who have just finished their childbearing
+              years. Having a higher education qualification is associated with
+              later ages both of caring for parents and of having children at
+              home. Increasingly late first childbearing, however, points
+              towards a potentially greater caring 'squeeze' for
+              higher-qualified women, with a little over 1 in 10 at age 45
+              projected to be caring for a parent while still having a child
+              under 18 in the household.",
+  journal  = "Popul. Trends",
+  number   =  112,
+  pages    = "29--35",
+  year     =  2003,
+  keywords = "Adult Age Distribution Aged *Caregivers Child Educational Status
+              *Family Female Humans *Intergenerational Relations Male Maternal
+              Age Middle Aged *Parents Prevalence *Social Class Surveys and
+              Questionnaires United Kingdom"
+}
+
 @ARTICLE{Bennett2015-iy,
   title   = "Na Gan Ts'i'stk Grandmothers' Group of Lax kw'alaams",
   author  = "Bennett, K and de Finney, S",
@@ -18817,6 +20462,18 @@
   language  = "en"
 }
 
+@ARTICLE{Angeli2019-zb,
+  title   = "{LIVING} {ARRANGEMENTS} {AND} {SOCIO-ECONOMIC} {CONDITIONS}
+             {AMONG} {EGYPTIAN} {ELDERLY}. {THE} {DETERMINANTS} {OF}
+             {LATE-LIFE} {FAMILY} {STRUCTURES}",
+  author  = "Angeli, A and Novelli, M",
+  journal = "Statistica",
+  volume  =  79,
+  number  =  2,
+  pages   = "135--156",
+  year    =  2019
+}
+
 @BOOK{Hooper2009-gi,
   title     = "Selections from harry potter and the half-blood prince",
   author    = "Hooper, Nicholas and Matz, Carol",
@@ -19005,6 +20662,21 @@
               Esther C L/K-8511-2012 Goh, Esther C L/0000-0002-0235-2363",
   journal  = "Intersections-Gender and Sexuality in Asia and the Pacific",
   number   =  39,
+  year     =  2016
+}
+
+@ARTICLE{Barbosa2016-jh,
+  title    = "Support network and social support for children with special
+              health care need",
+  author   = "Barbosa, T A and Reis, K M N and Lomba, G D and Alves, G V and
+              Braga, P P",
+  abstract = "Barbosa, Thais Araujo Nogueira Reis, Kamilla Milione Lomba,
+              Gabriela de Oliveira Alves, Gabriela Vilaca Braga, Patricia Pinto
+              Rene/M-6342-2019",
+  journal  = "Revista Da Rede De Enfermagem Do Nordeste",
+  volume   =  17,
+  number   =  1,
+  pages    = "60--66",
   year     =  2016
 }
 
@@ -19575,6 +21247,20 @@
   author = "Blood, Rebecca A C"
 }
 
+@ARTICLE{Jelezko2002-mt,
+  title       = "Single spin states in a defect center resolved by optical
+                 spectroscopy",
+  author      = "Jelezko, F and Popa, I and Gruber, A and Tietz, C and
+                 Wrachtrup, J and Nizovtsev, A and Kilin, S",
+  journal     = "Appl. Phys. Lett.",
+  publisher   = "AIP",
+  volume      =  81,
+  number      =  12,
+  pages       = "2160--2162",
+  year        =  2002,
+  original_id = "03a7abaf-8c80-0915-8c8d-92584611463b"
+}
+
 @ARTICLE{Diem2004-mj,
   title   = "A step-by-step guide to developing effective questionnaires and
              survey procedures for program evaluation and research",
@@ -19617,6 +21303,41 @@
   month    =  dec,
   year     =  1990,
   language = "en"
+}
+
+@ARTICLE{Baiyewu1997-oj,
+  title    = "Health problems and socio-demographic findings in elderly
+              Nigerians",
+  author   = "Baiyewu, O and Bella, A F and Adeyemi, J D and Bamgboye, E A and
+              Jegede, R O",
+  abstract = "Nine hundred and fifty-one persons aged 60 years and over, living
+              at home in four locations in southwestern Nigeria were studied.
+              The cohort representing urban and rural dwellers, constituted
+              7.8\% of the total population. Female residents had higher
+              widowhood rates and lower levels of educational attainment than
+              males. Multigenerational living arrangements were popular.
+              Ninety-five percent of the cohort had no physical impairment on
+              assessment of activities of daily life. Only 6.4\% were on a
+              regular pension (males more than females, P < 0.001) and income
+              for 75\% was less than the estimated poverty line (females more
+              than males P < 0.001). Estimated crude death rate was also higher
+              than the national average. The effects of these socio-demographic
+              factors on health are diverse. Comparisons were made with similar
+              studies in other cultures.",
+  journal  = "Afr. J. Med. Med. Sci.",
+  volume   =  26,
+  number   = "1-2",
+  pages    = "13--17",
+  year     =  1997,
+  keywords = "Activities of Daily Living Aged Cohort Studies Educational Status
+              Epidemiology Female Humans Income/statistics \& numerical data
+              Intergenerational Relations Male Middle Aged Mortality
+              Nigeria/epidemiology Pensions/statistics \& numerical data
+              Poverty/statistics \& numerical data Residence
+              Characteristics/statistics \& numerical data Rural
+              Health/*statistics \& numerical data Sex Factors Social Class
+              Socioeconomic Factors Urban Health/*statistics \& numerical data
+              Widowhood/statistics \& numerical data"
 }
 
 @ARTICLE{Fuller-Thomson2005-dq,
@@ -19952,6 +21673,31 @@
   title  = "Booking.com: Confirmation
             https://secure.booking.com/confirmation.en-gb.html?aid=304142.",
   author = "Pay, Total to"
+}
+
+@ARTICLE{Adnopoz2000-ry,
+  title    = "Relative caregiving. An effective option for permanency",
+  author   = "Adnopoz, J A",
+  abstract = "Children affected by HIV/AIDS are at high risk for multiple
+              placements as the adults in their lives are often too
+              incapacitated to provide stable, consistent care for them. This
+              article provides a historical overview of child caregiving,
+              describes the complex needs of HIV/AIDS affected children and
+              their relative caregivers, usually grandparents, and suggests
+              that with necessary supports, placement with relatives can be a
+              thoughtful, realistic option for permanency.",
+  journal  = "Child Adolesc. Psychiatr. Clin. N. Am.",
+  volume   =  9,
+  number   =  2,
+  pages    = "359--73, vii",
+  year     =  2000,
+  keywords = "Acquired Immunodeficiency Syndrome/*psychology Adolescent Adult
+              Caregivers/*psychology Child Child Custody/legislation \&
+              jurisprudence Child of Impaired Parents/*psychology
+              Family/*psychology Female Foster Home Care/psychology HIV
+              Infections/*psychology Humans Legal Guardians Male Maternal
+              Deprivation Middle Aged Paternal Deprivation Personality
+              Development"
 }
 
 @ARTICLE{Perry_undated-lo,
@@ -20334,6 +22080,50 @@
   author = "McInerney-Ernst, Erin Michelle",
   year   =  2011,
   school = "University of Missouri--Kansas City"
+}
+
+@ARTICLE{Acharya2013-rf,
+  title    = "Kinship care at community is better model to ensure psychosocial
+              and economic security to orphans living with {HIV} than from care
+              homes",
+  author   = "Acharya, S L and Pokhrel, B R and Ayer, R and Belbase, P and
+              Ghimire, M and Gurung, O",
+  abstract = "BACKGROUND: There were about 24,000 children affected by AIDS
+              living in Nepal in 2010; of these 5,000 AIDS orphans were in need
+              of immediate support. The objective of this study was to
+              investigate which model of care and support is more appropriate
+              for improving psychosocial and economic security of AIDS orphans.
+              METHODS: With the documented 5200 cases of AIDS orphans from 42
+              districts at National Association of People Living with HIV, we
+              purposively selected five districts - one from each development
+              region, based on the highest number of AIDS orphans reported.
+              From five districts, 56 HIV positive double orphans aged 8-18
+              years and their 42 caregivers were interviewed to find their
+              psychosocial and economic situation. RESULTS: Thirty nine (70\%)
+              orphans were found living in kinship care, while 17(30\%) were
+              living in institutional care homes. Orphans living in kinship
+              were more optimistic, as they were backed by their close
+              relatives 35 (90\%), had birth certificates 35 (90\%), ensured
+              inherent family property 21 (54\%), obtained basic needs like
+              food, education and shelter from grandparents 23 (59\%), and had
+              more than five friends who visited their homes 26 (67\%). While,
+              the orphans living in institutional care homes 17(30\%) had no
+              birth certificates, fewer contacts with siblings 2 (12\%), and
+              none had friends outside the care homes. CONCLUSIONS: Kinship
+              care is better model for psychosocial and economic security for
+              AIDS orphans in Nepal, rather than institutional care. Families
+              can provide good protection to AIDS orphans if government
+              provides minimum support to them.",
+  journal  = "J. Nepal Health Res. Counc.",
+  volume   =  11,
+  number   =  23,
+  pages    = "22--25",
+  year     =  2013,
+  keywords = "Adolescent Child *Child, Orphaned/statistics \& numerical data
+              Cross-Sectional Studies Female *Foster Home Care HIV
+              Infections/*therapy Humans Male Nepal/epidemiology
+              *Orphanages/statistics \& numerical data Psychology Socioeconomic
+              Factors"
 }
 
 @ARTICLE{Model_for_Healing_undated-mh,
